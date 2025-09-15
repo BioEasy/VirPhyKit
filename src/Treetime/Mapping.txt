@@ -1,0 +1,181 @@
+WesternEurope	Austria
+WesternEurope	Belgium
+WesternEurope	Denmark
+WesternEurope	Finland
+WesternEurope	France
+WesternEurope	Germany
+WesternEurope	Greece
+WesternEurope	Iceland
+WesternEurope	Ireland
+WesternEurope	Italy
+WesternEurope	Luxembourg
+WesternEurope	Malta
+WesternEurope	Netherlands
+WesternEurope	Norway
+WesternEurope	Portugal
+WesternEurope	Spain
+WesternEurope	Sweden
+WesternEurope	Switzerland
+WesternEurope	United Kingdom
+WesternEurope   UnitedKingdom
+EasternEurope	Belarus
+EasternEurope	Bulgaria
+EasternEurope	Czech Republic
+EasternEurope	Estonia
+EasternEurope	Hungary
+EasternEurope	Latvia
+EasternEurope	Lithuania
+EasternEurope	Moldova
+EasternEurope	Poland
+EasternEurope	Romania
+EasternEurope	Russia
+EasternEurope	Slovakia
+EasternEurope	Ukraine
+NorthAfrica	Algeria
+NorthAfrica	Egypt
+NorthAfrica	Libya
+NorthAfrica	Morocco
+NorthAfrica	Tunisia
+NorthAfrica	Sudan
+Sub-SaharanAfrica	Angola
+Sub-SaharanAfrica	Benin
+Sub-SaharanAfrica	Botswana
+Sub-SaharanAfrica	Burkina Faso
+Sub-SaharanAfrica	Burundi
+Sub-SaharanAfrica	Cameroon
+Sub-SaharanAfrica	Cape Verde
+Sub-SaharanAfrica	Central African Republic
+Sub-SaharanAfrica	Chad
+Sub-SaharanAfrica	Comoros
+Sub-SaharanAfrica	Democratic Republic of the Congo
+Sub-SaharanAfrica	Republic of the Congo
+Sub-SaharanAfrica	Côte d'Ivoire
+Sub-SaharanAfrica	Djibouti
+Sub-SaharanAfrica	Equatorial Guinea
+Sub-SaharanAfrica	Eritrea
+Sub-SaharanAfrica	Eswatini
+Sub-SaharanAfrica	Ethiopia
+Sub-SaharanAfrica	Gabon
+Sub-SaharanAfrica	Gambia
+Sub-SaharanAfrica	Ghana
+Sub-SaharanAfrica	Guinea
+Sub-SaharanAfrica	Guinea-Bissau
+Sub-SaharanAfrica	Kenya
+Sub-SaharanAfrica	Lesotho
+Sub-SaharanAfrica	Liberia
+Sub-SaharanAfrica	Madagascar
+Sub-SaharanAfrica	Malawi
+Sub-SaharanAfrica	Mali
+Sub-SaharanAfrica	Mauritania
+Sub-SaharanAfrica	Mauritius
+Sub-SaharanAfrica	Mozambique
+Sub-SaharanAfrica	Namibia
+Sub-SaharanAfrica	Niger
+Sub-SaharanAfrica	Nigeria
+Sub-SaharanAfrica	Rwanda
+Sub-SaharanAfrica	São Tomé and Príncipe
+Sub-SaharanAfrica	Senegal
+Sub-SaharanAfrica	Seychelles
+Sub-SaharanAfrica	Sierra Leone
+Sub-SaharanAfrica	Somalia
+Sub-SaharanAfrica	South Africa
+Sub-SaharanAfrica	South Sudan
+Sub-SaharanAfrica	Tanzania
+Sub-SaharanAfrica	Togo
+Sub-SaharanAfrica	Uganda
+Sub-SaharanAfrica	Zambia
+Sub-SaharanAfrica	Zimbabwe
+WestAsia/MiddleEast	Bahrain
+WestAsia/MiddleEast	Cyprus
+WestAsia/MiddleEast	Iran
+WestAsia/MiddleEast	Iraq
+WestAsia/MiddleEast	Israel
+WestAsia/MiddleEast	Jordan
+WestAsia/MiddleEast	Kuwait
+WestAsia/MiddleEast	Lebanon
+WestAsia/MiddleEast	Oman
+WestAsia/MiddleEast	Qatar
+WestAsia/MiddleEast	Saudi Arabia
+WestAsia/MiddleEast	Syria
+WestAsia/MiddleEast	Turkey
+WestAsia/MiddleEast	United Arab Emirates
+WestAsia/MiddleEast	Yemen
+SouthandSoutheastAsia	Bangladesh
+SouthandSoutheastAsia	Bhutan
+SouthandSoutheastAsia	Brunei
+SouthandSoutheastAsia	Cambodia
+SouthandSoutheastAsia	India
+SouthandSoutheastAsia	Indonesia
+SouthandSoutheastAsia	Laos
+SouthandSoutheastAsia	Malaysia
+SouthandSoutheastAsia	Maldives
+SouthandSoutheastAsia	Myanmar
+SouthandSoutheastAsia	Nepal
+SouthandSoutheastAsia	Philippines
+SouthandSoutheastAsia	Singapore
+SouthandSoutheastAsia	Sri Lanka
+SouthandSoutheastAsia	Thailand
+SouthandSoutheastAsia	Timor-Leste
+SouthandSoutheastAsia	Vietnam
+EastandCentralAsia	China
+EastandCentralAsia	Japan
+EastandCentralAsia	Mongolia
+EastandCentralAsia	North Korea
+EastandCentralAsia	South Korea
+EastandCentralAsia	Taiwan
+EastandCentralAsia	Uzbekistan
+EastandCentralAsia	Kazakhstan
+EastandCentralAsia	Kyrgyzstan
+EastandCentralAsia	Tajikistan
+EastandCentralAsia	Turkmenistan
+Pacific/Oceania	Australia
+Pacific/Oceania	Fiji
+Pacific/Oceania	Kiribati
+Pacific/Oceania	Marshall Islands
+Pacific/Oceania	Micronesia
+Pacific/Oceania	Nauru
+Pacific/Oceania	New Zealand
+Pacific/Oceania	NewZealand
+Pacific/Oceania	Palau
+Pacific/Oceania	Papua New Guinea
+Pacific/Oceania	Samoa
+Pacific/Oceania	Solomon Islands
+Pacific/Oceania	Tonga
+Pacific/Oceania	Tuvalu
+Pacific/Oceania	Vanuatu
+NorthAmerica	Canada
+NorthAmerica	United States
+NorthAmerica	USA
+CentralAmericaandCaribbean	Antigua and Barbuda
+CentralAmericaandCaribbean	Bahamas
+CentralAmericaandCaribbean	Barbados
+CentralAmericaandCaribbean	Belize
+CentralAmericaandCaribbean	Costa Rica
+CentralAmericaandCaribbean	Cuba
+CentralAmericaandCaribbean	Dominica
+CentralAmericaandCaribbean	Dominican Republic
+CentralAmericaandCaribbean	El Salvador
+CentralAmericaandCaribbean	Grenada
+CentralAmericaandCaribbean	Guatemala
+CentralAmericaandCaribbean	Haiti
+CentralAmericaandCaribbean	Honduras
+CentralAmericaandCaribbean	Jamaica
+CentralAmericaandCaribbean	Mexico
+CentralAmericaandCaribbean	Nicaragua
+CentralAmericaandCaribbean	Panama
+CentralAmericaandCaribbean	Saint Kitts and Nevis
+CentralAmericaandCaribbean	Saint Lucia
+CentralAmericaandCaribbean	Saint Vincent and the Grenadines
+CentralAmericaandCaribbean	Trinidad and Tobago
+SouthAmerica	Argentina
+SouthAmerica	Bolivia
+SouthAmerica	Brazil
+SouthAmerica	Chile
+SouthAmerica	Colombia
+SouthAmerica	Ecuador
+SouthAmerica	Guyana
+SouthAmerica	Paraguay
+SouthAmerica	Peru
+SouthAmerica	Suriname
+SouthAmerica	Uruguay
+SouthAmerica	Venezuela

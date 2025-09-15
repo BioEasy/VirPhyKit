@@ -1,0 +1,6383 @@
+{
+  "A08776.1": {
+    "Isolate": "N/A",
+    "ID": "A08776.1",
+    "Organism": "Potato virus Y",
+    "Length": 9705,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB185833.2": {
+    "Isolate": "PVY-12",
+    "ID": "AB185833.2",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "N/A",
+    "Geo Location": "Syria",
+    "Collection Date": "N/A"
+  },
+  "AB451182.2": {
+    "Isolate": "Y28",
+    "ID": "AB451182.2",
+    "Organism": "Potato virus Y",
+    "Length": 9645,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Japan",
+    "Collection Date": "N/A"
+  },
+  "AB711143.1": {
+    "Isolate": "NTNHIR3",
+    "ID": "AB711143.1",
+    "Organism": "Potato virus Y",
+    "Length": 9682,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711144.1": {
+    "Isolate": "NTNKGAM1",
+    "ID": "AB711144.1",
+    "Organism": "Potato virus Y",
+    "Length": 9674,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711145.1": {
+    "Isolate": "NTNKGAM2",
+    "ID": "AB711145.1",
+    "Organism": "Potato virus Y",
+    "Length": 9676,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711146.1": {
+    "Isolate": "NTNTK1",
+    "ID": "AB711146.1",
+    "Organism": "Potato virus Y",
+    "Length": 9676,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711147.1": {
+    "Isolate": "OAO21",
+    "ID": "AB711147.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711148.1": {
+    "Isolate": "OAO22",
+    "ID": "AB711148.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711149.1": {
+    "Isolate": "OHO37",
+    "ID": "AB711149.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711150.1": {
+    "Isolate": "OKUM4",
+    "ID": "AB711150.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711151.1": {
+    "Isolate": "ONGI3",
+    "ID": "AB711151.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711152.1": {
+    "Isolate": "ONGOB6",
+    "ID": "AB711152.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711153.1": {
+    "Isolate": "OUNKA3",
+    "ID": "AB711153.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711154.1": {
+    "Isolate": "OUNKG",
+    "ID": "AB711154.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB711155.1": {
+    "Isolate": "OUNKS",
+    "ID": "AB711155.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AB714134.1": {
+    "Isolate": "OH",
+    "ID": "AB714134.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Japan",
+    "Collection Date": "N/A"
+  },
+  "AB714135.1": {
+    "Isolate": "T13",
+    "ID": "AB714135.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Japan",
+    "Collection Date": "1989-01-01"
+  },
+  "AF237963.2": {
+    "Isolate": "N/A",
+    "ID": "AF237963.2",
+    "Organism": "Potato virus Y strain nnp",
+    "Length": 9699,
+    "Host": "pepper",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AF522296.1": {
+    "Isolate": "N/A",
+    "ID": "AF522296.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AJ889866.1": {
+    "Isolate": "12-94",
+    "ID": "AJ889866.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9697,
+    "Host": "N/A",
+    "Geo Location": "Poland",
+    "Collection Date": "N/A"
+  },
+  "AJ889867.1": {
+    "Isolate": "156",
+    "ID": "AJ889867.1",
+    "Organism": "Potato virus Y strain Wilga 156",
+    "Length": 9699,
+    "Host": "N/A",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "AJ889868.1": {
+    "Isolate": "156var",
+    "ID": "AJ889868.1",
+    "Organism": "Potato virus Y strain Wilga 156var",
+    "Length": 9699,
+    "Host": "N/A",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "AM113988.1": {
+    "Isolate": "261-4",
+    "ID": "AM113988.1",
+    "Organism": "Potato virus Y strain Wilga",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "AY166866.1": {
+    "Isolate": "Tu 660",
+    "ID": "AY166866.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AY166867.1": {
+    "Isolate": "N-Jg",
+    "ID": "AY166867.1",
+    "Organism": "Potato virus Y strain N",
+    "Length": 9700,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AY745491.1": {
+    "Isolate": "N:O-Mb112",
+    "ID": "AY745491.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "Canada",
+    "Collection Date": "N/A"
+  },
+  "AY745492.1": {
+    "Isolate": "N:O-L56",
+    "ID": "AY745492.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "Canada",
+    "Collection Date": "N/A"
+  },
+  "AY884982.1": {
+    "Isolate": "423-3",
+    "ID": "AY884982.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AY884983.1": {
+    "Isolate": "Mont",
+    "ID": "AY884983.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AY884984.1": {
+    "Isolate": "RRA-1",
+    "ID": "AY884984.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "AY884985.1": {
+    "Isolate": "Alt",
+    "ID": "AY884985.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "D00441.1": {
+    "Isolate": "N/A",
+    "ID": "D00441.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "EF016294.1": {
+    "Isolate": "v942490",
+    "ID": "EF016294.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "N/A"
+  },
+  "EF026074.1": {
+    "Isolate": "PVY-Oz",
+    "ID": "EF026074.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "EF026075.1": {
+    "Isolate": "PB312",
+    "ID": "EF026075.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "EF026076.1": {
+    "Isolate": "PB209",
+    "ID": "EF026076.1",
+    "Organism": "Potato virus Y",
+    "Length": 9670,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "EF558545.1": {
+    "Isolate": "Wilga",
+    "ID": "EF558545.1",
+    "Organism": "Potato virus Y strain (N)W",
+    "Length": 9698,
+    "Host": "N/A",
+    "Geo Location": "Poland",
+    "Collection Date": "N/A"
+  },
+  "EU182576.1": {
+    "Isolate": "SD1",
+    "ID": "EU182576.1",
+    "Organism": "Potato virus Y",
+    "Length": 9706,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "EU482153.1": {
+    "Isolate": "Foggia",
+    "ID": "EU482153.1",
+    "Organism": "Potato virus Y",
+    "Length": 9691,
+    "Host": "N/A",
+    "Geo Location": "Italy",
+    "Collection Date": "N/A"
+  },
+  "EU563512.1": {
+    "Isolate": "PRI-509",
+    "ID": "EU563512.1",
+    "Organism": "Potato virus Y strain C",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Netherlands",
+    "Collection Date": "1938-01-01"
+  },
+  "FJ204164.1": {
+    "Isolate": "N4",
+    "ID": "FJ204164.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "FJ204165.1": {
+    "Isolate": "L26",
+    "ID": "FJ204165.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "FJ204166.1": {
+    "Isolate": "HR1",
+    "ID": "FJ204166.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9702,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "FJ214726.1": {
+    "Isolate": "Chile3",
+    "ID": "FJ214726.1",
+    "Organism": "Potato virus Y",
+    "Length": 9773,
+    "Host": "Capsicum baccatum cv. Crystal",
+    "Geo Location": "Chile",
+    "Collection Date": "2005-01-01"
+  },
+  "FJ643477.1": {
+    "Isolate": "ID269",
+    "ID": "FJ643477.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "FJ643478.1": {
+    "Isolate": "ME56",
+    "ID": "FJ643478.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "FJ643479.1": {
+    "Isolate": "ME173",
+    "ID": "FJ643479.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "GQ200836.1": {
+    "Isolate": "HN2",
+    "ID": "GQ200836.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2007-04-15"
+  },
+  "HE608963.1": {
+    "Isolate": "MV99",
+    "ID": "HE608963.1",
+    "Organism": "Potato virus Y Wilga MV99",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "Sep-2010"
+  },
+  "HE608964.1": {
+    "Isolate": "MV175",
+    "ID": "HE608964.1",
+    "Organism": "Potato virus Y Wilga MV175",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "Sep-2010"
+  },
+  "HM367075.1": {
+    "Isolate": "FL",
+    "ID": "HM367075.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Canada",
+    "Collection Date": "2007-01-01"
+  },
+  "HM367076.1": {
+    "Isolate": "RB",
+    "ID": "HM367076.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Canada",
+    "Collection Date": "N/A"
+  },
+  "HM590405.1": {
+    "Isolate": "Guiding-3",
+    "ID": "HM590405.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "HM590406.1": {
+    "Isolate": "HC-2 quan",
+    "ID": "HM590406.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "HM590407.1": {
+    "Isolate": "WA-13 quan",
+    "ID": "HM590407.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "HM991453.1": {
+    "Isolate": "E30",
+    "ID": "HM991453.1",
+    "Organism": "Potato virus Y",
+    "Length": 9613,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "Poland",
+    "Collection Date": "2000-01-01"
+  },
+  "HM991454.1": {
+    "Isolate": "FrKV15",
+    "ID": "HM991454.1",
+    "Organism": "Potato virus Y",
+    "Length": 9636,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "France",
+    "Collection Date": "2000-01-01"
+  },
+  "HQ631374.1": {
+    "Isolate": "HN1",
+    "ID": "HQ631374.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2007-04-15"
+  },
+  "HQ912862.1": {
+    "Isolate": "ID431",
+    "ID": "HQ912862.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912863.1": {
+    "Isolate": "N1",
+    "ID": "HQ912863.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912864.1": {
+    "Isolate": "ICIA",
+    "ID": "HQ912864.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912865.1": {
+    "Isolate": "CW",
+    "ID": "HQ912865.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2000-01-01"
+  },
+  "HQ912866.1": {
+    "Isolate": "A95",
+    "ID": "HQ912866.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912867.1": {
+    "Isolate": "ID20",
+    "ID": "HQ912867.1",
+    "Organism": "Potato virus Y",
+    "Length": 9670,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912868.1": {
+    "Isolate": "N3",
+    "ID": "HQ912868.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912869.1": {
+    "Isolate": "ID155",
+    "ID": "HQ912869.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912870.1": {
+    "Isolate": "ID14_2_14a",
+    "ID": "HQ912870.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912871.1": {
+    "Isolate": "ME142",
+    "ID": "HQ912871.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912872.1": {
+    "Isolate": "ME162",
+    "ID": "HQ912872.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912873.1": {
+    "Isolate": "ME236-77",
+    "ID": "HQ912873.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912874.1": {
+    "Isolate": "ME131",
+    "ID": "HQ912874.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912875.1": {
+    "Isolate": "ME178",
+    "ID": "HQ912875.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "HQ912876.1": {
+    "Isolate": "ME89-107",
+    "ID": "HQ912876.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912877.1": {
+    "Isolate": "ME227",
+    "ID": "HQ912877.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912878.1": {
+    "Isolate": "ME27",
+    "ID": "HQ912878.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912879.1": {
+    "Isolate": "ID331",
+    "ID": "HQ912879.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912880.1": {
+    "Isolate": "ID253",
+    "ID": "HQ912880.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912881.1": {
+    "Isolate": "ID315",
+    "ID": "HQ912881.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912882.1": {
+    "Isolate": "ID1269",
+    "ID": "HQ912882.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912883.1": {
+    "Isolate": "ID988",
+    "ID": "HQ912883.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912884.1": {
+    "Isolate": "ME286-58",
+    "ID": "HQ912884.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912885.1": {
+    "Isolate": "ID11_27_57B",
+    "ID": "HQ912885.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912886.1": {
+    "Isolate": "ID968",
+    "ID": "HQ912886.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912887.1": {
+    "Isolate": "ID1010",
+    "ID": "HQ912887.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912888.1": {
+    "Isolate": "ID130",
+    "ID": "HQ912888.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912889.1": {
+    "Isolate": "ME200",
+    "ID": "HQ912889.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912890.1": {
+    "Isolate": "ID1_5_62A",
+    "ID": "HQ912890.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912891.1": {
+    "Isolate": "ME236-4",
+    "ID": "HQ912891.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "HQ912892.1": {
+    "Isolate": "ME120",
+    "ID": "HQ912892.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912893.1": {
+    "Isolate": "ID281",
+    "ID": "HQ912893.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912894.1": {
+    "Isolate": "ID883",
+    "ID": "HQ912894.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912895.1": {
+    "Isolate": "ID243",
+    "ID": "HQ912895.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912896.1": {
+    "Isolate": "LR",
+    "ID": "HQ912896.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2008-01-01"
+  },
+  "HQ912897.1": {
+    "Isolate": "CO2122",
+    "ID": "HQ912897.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912898.1": {
+    "Isolate": "CO1801",
+    "ID": "HQ912898.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912899.1": {
+    "Isolate": "CO2247",
+    "ID": "HQ912899.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912900.1": {
+    "Isolate": "CO2272",
+    "ID": "HQ912900.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912901.1": {
+    "Isolate": "CO2194",
+    "ID": "HQ912901.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912902.1": {
+    "Isolate": "CO2352",
+    "ID": "HQ912902.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912903.1": {
+    "Isolate": "CO2294",
+    "ID": "HQ912903.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912904.1": {
+    "Isolate": "CO289",
+    "ID": "HQ912904.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912905.1": {
+    "Isolate": "CO284",
+    "ID": "HQ912905.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912906.1": {
+    "Isolate": "CO1898",
+    "ID": "HQ912906.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912907.1": {
+    "Isolate": "CO2146",
+    "ID": "HQ912907.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912908.1": {
+    "Isolate": "CO2374",
+    "ID": "HQ912908.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912909.1": {
+    "Isolate": "CO303",
+    "ID": "HQ912909.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912910.1": {
+    "Isolate": "CO1750",
+    "ID": "HQ912910.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912911.1": {
+    "Isolate": "CO286",
+    "ID": "HQ912911.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "HQ912912.1": {
+    "Isolate": "CO1827",
+    "ID": "HQ912912.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912913.1": {
+    "Isolate": "CO2081",
+    "ID": "HQ912913.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912914.1": {
+    "Isolate": "CO2140",
+    "ID": "HQ912914.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "HQ912915.1": {
+    "Isolate": "CO1960",
+    "ID": "HQ912915.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "JF927749.1": {
+    "Isolate": "IUNG-1",
+    "ID": "JF927749.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv.",
+    "Geo Location": "Croatia",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927750.1": {
+    "Isolate": "IUNG-2",
+    "ID": "JF927750.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. K326",
+    "Geo Location": "Germany",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927751.1": {
+    "Isolate": "IUNG-3",
+    "ID": "JF927751.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. BPAzg",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927752.1": {
+    "Isolate": "IUNG-4",
+    "ID": "JF927752.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. Virginia SCR",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927753.1": {
+    "Isolate": "IUNG-5",
+    "ID": "JF927753.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. Habana92",
+    "Geo Location": "Poland",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927754.1": {
+    "Isolate": "IUNG-6",
+    "ID": "JF927754.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. Virginia SCR",
+    "Geo Location": "Germany",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927755.1": {
+    "Isolate": "IUNG-7",
+    "ID": "JF927755.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. K326",
+    "Geo Location": "Poland",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927756.1": {
+    "Isolate": "IUNG-8",
+    "ID": "JF927756.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. HYB21",
+    "Geo Location": "Germany",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927757.1": {
+    "Isolate": "IUNG-9",
+    "ID": "JF927757.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. Kentucky 17",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927758.1": {
+    "Isolate": "IUNG-10",
+    "ID": "JF927758.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. K326",
+    "Geo Location": "Poland",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927759.1": {
+    "Isolate": "IUNG-11",
+    "ID": "JF927759.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. TN86",
+    "Geo Location": "Poland",
+    "Collection Date": "2007-01-01"
+  },
+  "JF927760.1": {
+    "Isolate": "IUNG-12",
+    "ID": "JF927760.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Nicotiana tabacum cv. Virginia SCR",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927761.1": {
+    "Isolate": "IUNG-13",
+    "ID": "JF927761.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. Wislica",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927762.1": {
+    "Isolate": "IUNG-14",
+    "ID": "JF927762.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. Virginia SCR",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF927763.1": {
+    "Isolate": "IUNG-15",
+    "ID": "JF927763.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Nicotiana tabacum cv. VRG2",
+    "Geo Location": "Poland",
+    "Collection Date": "2008-01-01"
+  },
+  "JF928458.1": {
+    "Isolate": "PVY-MON",
+    "ID": "JF928458.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "N/A"
+  },
+  "JF928459.1": {
+    "Isolate": "PVY-AGA",
+    "ID": "JF928459.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "N/A"
+  },
+  "JF928460.1": {
+    "Isolate": "PVY-AST",
+    "ID": "JF928460.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "N/A"
+  },
+  "JN083841.1": {
+    "Isolate": "AQ4",
+    "ID": "JN083841.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "JN083842.1": {
+    "Isolate": "FZ10",
+    "ID": "JN083842.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "JN936419.1": {
+    "Isolate": "GG517_128",
+    "ID": "JN936419.1",
+    "Organism": "Potato virus Y",
+    "Length": 9552,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "South Africa",
+    "Collection Date": "2005-10-25"
+  },
+  "JQ663997.1": {
+    "Isolate": "SD-G",
+    "ID": "JQ663997.1",
+    "Organism": "Potato virus Y",
+    "Length": 9665,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "JQ673517.1": {
+    "Isolate": "SD-T",
+    "ID": "JQ673517.1",
+    "Organism": "Potato virus Y",
+    "Length": 9665,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "JQ924285.1": {
+    "Isolate": "YO-ANT25",
+    "ID": "JQ924285.1",
+    "Organism": "Potato virus Y strain O",
+    "Length": 9649,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "1985-01-01"
+  },
+  "JQ924286.1": {
+    "Isolate": "MAF-VOY",
+    "ID": "JQ924286.1",
+    "Organism": "Potato virus Y strain N-Wi",
+    "Length": 9691,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "2009-01-01"
+  },
+  "JQ924287.1": {
+    "Isolate": "ALF-VI",
+    "ID": "JQ924287.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9698,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "2007-01-01"
+  },
+  "JQ924288.1": {
+    "Isolate": "SGS-AG",
+    "ID": "JQ924288.1",
+    "Organism": "Potato virus Y strain N-Wi",
+    "Length": 9674,
+    "Host": "potato",
+    "Geo Location": "Brazil",
+    "Collection Date": "2007-01-01"
+  },
+  "JQ969033.2": {
+    "Isolate": "GBVC_PVY_37 NTN",
+    "ID": "JQ969033.2",
+    "Organism": "Potato virus Y",
+    "Length": 9695,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969034.2": {
+    "Isolate": "GBVC_PVY_15 NTN",
+    "ID": "JQ969034.2",
+    "Organism": "Potato virus Y",
+    "Length": 9689,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969035.2": {
+    "Isolate": "GBVC_PVY_3 NTN",
+    "ID": "JQ969035.2",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969036.2": {
+    "Isolate": "GBVC _PVY_10 N",
+    "ID": "JQ969036.2",
+    "Organism": "Potato virus Y",
+    "Length": 9662,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969037.2": {
+    "Isolate": "GBVC _PVY_9 NTN",
+    "ID": "JQ969037.2",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969039.2": {
+    "Isolate": "GBVC_PVY_26 N_Wi",
+    "ID": "JQ969039.2",
+    "Organism": "Potato virus Y",
+    "Length": 9689,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969040.2": {
+    "Isolate": "GBVC_PVY_23 N_Wi",
+    "ID": "JQ969040.2",
+    "Organism": "Potato virus Y",
+    "Length": 9687,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ969041.2": {
+    "Isolate": "GBVC_PVY_34 N_Wi",
+    "ID": "JQ969041.2",
+    "Organism": "Potato virus Y",
+    "Length": 9682,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Belgium",
+    "Collection Date": "2010-01-01"
+  },
+  "JQ971975.1": {
+    "Isolate": "ME162",
+    "ID": "JQ971975.1",
+    "Organism": "Potato virus Y",
+    "Length": 9714,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2012-04-05"
+  },
+  "JX424837.1": {
+    "Isolate": "PVYOUK",
+    "ID": "JX424837.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "potato",
+    "Geo Location": "Finland",
+    "Collection Date": "2008-01-01"
+  },
+  "KC296432.1": {
+    "Isolate": "N/A",
+    "ID": "KC296432.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296433.1": {
+    "Isolate": "N/A",
+    "ID": "KC296433.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296434.1": {
+    "Isolate": "N/A",
+    "ID": "KC296434.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296435.1": {
+    "Isolate": "N/A",
+    "ID": "KC296435.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296436.1": {
+    "Isolate": "N/A",
+    "ID": "KC296436.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296437.1": {
+    "Isolate": "N/A",
+    "ID": "KC296437.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296438.1": {
+    "Isolate": "N/A",
+    "ID": "KC296438.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296439.1": {
+    "Isolate": "N/A",
+    "ID": "KC296439.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296440.1": {
+    "Isolate": "N/A",
+    "ID": "KC296440.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC296441.1": {
+    "Isolate": "N/A",
+    "ID": "KC296441.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2011-01-01"
+  },
+  "KC614702.1": {
+    "Isolate": "11289-1",
+    "ID": "KC614702.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "Jul-2009"
+  },
+  "KF149961.1": {
+    "Isolate": "N/A",
+    "ID": "KF149961.1",
+    "Organism": "Potato virus Y",
+    "Length": 1051,
+    "Host": "N/A",
+    "Geo Location": "China",
+    "Collection Date": "2012-10-16"
+  },
+  "KF770835.1": {
+    "Isolate": "JVW-186",
+    "ID": "KF770835.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Capsicum annuum",
+    "Geo Location": "South Africa",
+    "Collection Date": "Oct-2010"
+  },
+  "KF850513.1": {
+    "Isolate": "M3",
+    "ID": "KF850513.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Mexico",
+    "Collection Date": "2009-08-20"
+  },
+  "KJ603223.1": {
+    "Isolate": "1116",
+    "ID": "KJ603223.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "KJ603224.1": {
+    "Isolate": "1128",
+    "ID": "KJ603224.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "KJ603225.1": {
+    "Isolate": "1129",
+    "ID": "KJ603225.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "N/A"
+  },
+  "KJ634023.1": {
+    "Isolate": "GF_YL20",
+    "ID": "KJ634023.1",
+    "Organism": "Potato virus Y",
+    "Length": 9720,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2011-08-13"
+  },
+  "KJ634024.1": {
+    "Isolate": "ShX14",
+    "ID": "KJ634024.1",
+    "Organism": "Potato virus Y",
+    "Length": 9724,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2011-08-13"
+  },
+  "KJ801915.1": {
+    "Isolate": "CF_YL21",
+    "ID": "KJ801915.1",
+    "Organism": "Potato virus Y",
+    "Length": 9718,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2011-08-13"
+  },
+  "KJ946936.2": {
+    "Isolate": "3D",
+    "ID": "KJ946936.2",
+    "Organism": "Potato virus Y",
+    "Length": 9645,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Serbia",
+    "Collection Date": "2013-01-01"
+  },
+  "KM396648.1": {
+    "Isolate": "N/A",
+    "ID": "KM396648.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum cv. Pentland Squire",
+    "Geo Location": "Slovenia",
+    "Collection Date": "2007-01-01"
+  },
+  "KP691317.1": {
+    "Isolate": "ATL1",
+    "ID": "KP691317.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum cv. Atlantic",
+    "Geo Location": "Australia",
+    "Collection Date": "2012-01-01"
+  },
+  "KP691318.1": {
+    "Isolate": "BL",
+    "ID": "KP691318.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Australia",
+    "Collection Date": "2003-01-01"
+  },
+  "KP691319.1": {
+    "Isolate": "CM2",
+    "ID": "KP691319.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum cv. Cara",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1984-01-01"
+  },
+  "KP691320.1": {
+    "Isolate": "CN1",
+    "ID": "KP691320.1",
+    "Organism": "Potato virus Y",
+    "Length": 9689,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Australia",
+    "Collection Date": "2006-01-01"
+  },
+  "KP691321.1": {
+    "Isolate": "CRM1",
+    "ID": "KP691321.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Pentland Crown",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1982-01-01"
+  },
+  "KP691322.1": {
+    "Isolate": "CRM2",
+    "ID": "KP691322.1",
+    "Organism": "Potato virus Y",
+    "Length": 9664,
+    "Host": "Solanum tuberosum cv. Pentland Crown",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1982-01-01"
+  },
+  "KP691323.1": {
+    "Isolate": "CRN",
+    "ID": "KP691323.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum cv. Pentland Crown",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1982-01-01"
+  },
+  "KP691324.1": {
+    "Isolate": "CT",
+    "ID": "KP691324.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum tuberosum cv. Catriona",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1980-01-01"
+  },
+  "KP691325.1": {
+    "Isolate": "DEL3",
+    "ID": "KP691325.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum cv. Delaware",
+    "Geo Location": "Australia",
+    "Collection Date": "2011-01-01"
+  },
+  "KP691326.1": {
+    "Isolate": "DS",
+    "ID": "KP691326.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum cv. Desiree",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1984-01-01"
+  },
+  "KP691327.1": {
+    "Isolate": "KE",
+    "ID": "KP691327.1",
+    "Organism": "Potato virus Y",
+    "Length": 9665,
+    "Host": "Solanum tuberosum cv. King Edward",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1943-01-01"
+  },
+  "KP691329.1": {
+    "Isolate": "KIP1",
+    "ID": "KP691329.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum cv. Kipfler",
+    "Geo Location": "Australia",
+    "Collection Date": "2008-01-01"
+  },
+  "KP691330.1": {
+    "Isolate": "RS",
+    "ID": "KP691330.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum cv. Record",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1981-01-01"
+  },
+  "KR270797.1": {
+    "Isolate": "mar7",
+    "ID": "KR270797.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2015-03-09"
+  },
+  "KT290511.1": {
+    "Isolate": "VarA",
+    "ID": "KT290511.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2015-03-01"
+  },
+  "KT290512.1": {
+    "Isolate": "VarB",
+    "ID": "KT290512.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2015-03-01"
+  },
+  "KT336551.1": {
+    "Isolate": "Yarumal",
+    "ID": "KT336551.1",
+    "Organism": "Potato virus Y",
+    "Length": 9708,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2015-03-01"
+  },
+  "KT336552.1": {
+    "Isolate": "Yarumal_varB",
+    "ID": "KT336552.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2015-03-01"
+  },
+  "KU375553.1": {
+    "Isolate": "s2-12",
+    "ID": "KU375553.1",
+    "Organism": "Potato virus Y",
+    "Length": 9623,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "China",
+    "Collection Date": "2012-01-01"
+  },
+  "KU375554.1": {
+    "Isolate": "s1-10",
+    "ID": "KU375554.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "China",
+    "Collection Date": "2012-01-01"
+  },
+  "KU724101.1": {
+    "Isolate": "Guiyang",
+    "ID": "KU724101.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2015-04-25"
+  },
+  "KX009783.1": {
+    "Isolate": "DF",
+    "ID": "KX009783.1",
+    "Organism": "Potato virus Y",
+    "Length": 9706,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2014-05-05"
+  },
+  "KX032614.1": {
+    "Isolate": "HLJ-BDH-2",
+    "ID": "KX032614.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2014-06-25"
+  },
+  "KX184816.1": {
+    "Isolate": "P36",
+    "ID": "KX184816.1",
+    "Organism": "Potato virus Y",
+    "Length": 9716,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2011-05-17"
+  },
+  "KX184817.1": {
+    "Isolate": "F17",
+    "ID": "KX184817.1",
+    "Organism": "Potato virus Y",
+    "Length": 9719,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2014-05-04"
+  },
+  "KX184818.1": {
+    "Isolate": "F65",
+    "ID": "KX184818.1",
+    "Organism": "Potato virus Y",
+    "Length": 9716,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2014-05-04"
+  },
+  "KX184819.1": {
+    "Isolate": "F89II",
+    "ID": "KX184819.1",
+    "Organism": "Potato virus Y",
+    "Length": 9710,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2011-05-04"
+  },
+  "KX255676.1": {
+    "Isolate": "ES",
+    "ID": "KX255676.1",
+    "Organism": "Potato virus Y",
+    "Length": 1210,
+    "Host": "Solanum tuberosum (potato)",
+    "Geo Location": "Egypt",
+    "Collection Date": "Nov-2014"
+  },
+  "KY848017.1": {
+    "Isolate": "NY51",
+    "ID": "KY848017.1",
+    "Organism": "Potato virus Y",
+    "Length": 9652,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY848018.1": {
+    "Isolate": "OR16",
+    "ID": "KY848018.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848019.1": {
+    "Isolate": "OR2",
+    "ID": "KY848019.1",
+    "Organism": "Potato virus Y",
+    "Length": 9661,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY848020.1": {
+    "Isolate": "OR20",
+    "ID": "KY848020.1",
+    "Organism": "Potato virus Y",
+    "Length": 9626,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848021.1": {
+    "Isolate": "OR3",
+    "ID": "KY848021.1",
+    "Organism": "Potato virus Y",
+    "Length": 9639,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848022.1": {
+    "Isolate": "OR35",
+    "ID": "KY848022.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848023.1": {
+    "Isolate": "Pondo4",
+    "ID": "KY848023.1",
+    "Organism": "Potato virus Y",
+    "Length": 9627,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "2013-01-01"
+  },
+  "KY848024.1": {
+    "Isolate": "SU2",
+    "ID": "KY848024.1",
+    "Organism": "Potato virus Y",
+    "Length": 9655,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2013-01-01"
+  },
+  "KY848025.1": {
+    "Isolate": "WA316",
+    "ID": "KY848025.1",
+    "Organism": "Potato virus Y",
+    "Length": 9571,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY848026.1": {
+    "Isolate": "WA70",
+    "ID": "KY848026.1",
+    "Organism": "Potato virus Y",
+    "Length": 9633,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848027.1": {
+    "Isolate": "WA9",
+    "ID": "KY848027.1",
+    "Organism": "Potato virus Y",
+    "Length": 9647,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848028.1": {
+    "Isolate": "WI120018",
+    "ID": "KY848028.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY848029.1": {
+    "Isolate": "WI120092",
+    "ID": "KY848029.1",
+    "Organism": "Potato virus Y",
+    "Length": 9620,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY848030.1": {
+    "Isolate": "WI120127",
+    "ID": "KY848030.1",
+    "Organism": "Potato virus Y",
+    "Length": 9632,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY848031.1": {
+    "Isolate": "WI3",
+    "ID": "KY848031.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848032.1": {
+    "Isolate": "WI3406",
+    "ID": "KY848032.1",
+    "Organism": "Potato virus Y",
+    "Length": 9582,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY848033.1": {
+    "Isolate": "WI62",
+    "ID": "KY848033.1",
+    "Organism": "Potato virus Y",
+    "Length": 9633,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848034.1": {
+    "Isolate": "WY1",
+    "ID": "KY848034.1",
+    "Organism": "Potato virus Y",
+    "Length": 9636,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848035.1": {
+    "Isolate": "CO_225",
+    "ID": "KY848035.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848036.1": {
+    "Isolate": "CO_28",
+    "ID": "KY848036.1",
+    "Organism": "Potato virus Y",
+    "Length": 9657,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848037.1": {
+    "Isolate": "CO12",
+    "ID": "KY848037.1",
+    "Organism": "Potato virus Y",
+    "Length": 9644,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848038.1": {
+    "Isolate": "CO238",
+    "ID": "KY848038.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848039.1": {
+    "Isolate": "CO254",
+    "ID": "KY848039.1",
+    "Organism": "Potato virus Y",
+    "Length": 9608,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848040.1": {
+    "Isolate": "CO275",
+    "ID": "KY848040.1",
+    "Organism": "Potato virus Y",
+    "Length": 9608,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848041.1": {
+    "Isolate": "CO32",
+    "ID": "KY848041.1",
+    "Organism": "Potato virus Y",
+    "Length": 9640,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848042.1": {
+    "Isolate": "CO39",
+    "ID": "KY848042.1",
+    "Organism": "Potato virus Y",
+    "Length": 9616,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848043.1": {
+    "Isolate": "CO53",
+    "ID": "KY848043.1",
+    "Organism": "Potato virus Y",
+    "Length": 9608,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848044.1": {
+    "Isolate": "CO55",
+    "ID": "KY848044.1",
+    "Organism": "Potato virus Y",
+    "Length": 9608,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848045.1": {
+    "Isolate": "CO6",
+    "ID": "KY848045.1",
+    "Organism": "Potato virus Y",
+    "Length": 9661,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848046.1": {
+    "Isolate": "ID_1005",
+    "ID": "KY848046.1",
+    "Organism": "Potato virus Y",
+    "Length": 9644,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY848047.1": {
+    "Isolate": "ID_236",
+    "ID": "KY848047.1",
+    "Organism": "Potato virus Y",
+    "Length": 9656,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848048.1": {
+    "Isolate": "ME_222_18",
+    "ID": "KY848048.1",
+    "Organism": "Potato virus Y",
+    "Length": 9663,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848049.1": {
+    "Isolate": "ME_250_106",
+    "ID": "KY848049.1",
+    "Organism": "Potato virus Y",
+    "Length": 9663,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848050.1": {
+    "Isolate": "ME_250_20",
+    "ID": "KY848050.1",
+    "Organism": "Potato virus Y",
+    "Length": 9658,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848051.1": {
+    "Isolate": "ME_323_34",
+    "ID": "KY848051.1",
+    "Organism": "Potato virus Y",
+    "Length": 9656,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848052.1": {
+    "Isolate": "ND127",
+    "ID": "KY848052.1",
+    "Organism": "Potato virus Y",
+    "Length": 9658,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848053.1": {
+    "Isolate": "T1",
+    "ID": "KY848053.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2007-01-01"
+  },
+  "KY983389.1": {
+    "Isolate": "SW",
+    "ID": "KY983389.1",
+    "Organism": "Potato virus Y",
+    "Length": 9733,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2016-03-08"
+  },
+  "MF033142.1": {
+    "Isolate": "TC",
+    "ID": "MF033142.1",
+    "Organism": "Potato virus Y",
+    "Length": 9727,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2016-03-08"
+  },
+  "MF033143.1": {
+    "Isolate": "BHC",
+    "ID": "MF033143.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum americanum",
+    "Geo Location": "China",
+    "Collection Date": "2016-03-08"
+  },
+  "MF134425.1": {
+    "Isolate": "HLJ26",
+    "ID": "MF134425.1",
+    "Organism": "Potato virus Y",
+    "Length": 9724,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2012-08-23"
+  },
+  "MF176826.1": {
+    "Isolate": "O Diacol Capiro",
+    "ID": "MF176826.1",
+    "Organism": "Potato virus Y",
+    "Length": 9663,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2016-08-01"
+  },
+  "MF176827.1": {
+    "Isolate": "NTN Diacol Capiro",
+    "ID": "MF176827.1",
+    "Organism": "Potato virus Y",
+    "Length": 9691,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2016-08-01"
+  },
+  "MF176828.1": {
+    "Isolate": "N Diacol Capiro",
+    "ID": "MF176828.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2016-08-01"
+  },
+  "MF382053.1": {
+    "Isolate": "Pep-ZIM2",
+    "ID": "MF382053.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Capsicum annuum (pepper)",
+    "Geo Location": "Zimbabwe",
+    "Collection Date": "2015-01-01"
+  },
+  "MF405303.1": {
+    "Isolate": "CH",
+    "ID": "MF405303.1",
+    "Organism": "Potato virus Y",
+    "Length": 9721,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Switzerland",
+    "Collection Date": "Aug-2013"
+  },
+  "MF422609.1": {
+    "Isolate": "CH",
+    "ID": "MF422609.1",
+    "Organism": "Potato virus Y",
+    "Length": 9714,
+    "Host": "Sotanum tuberosum",
+    "Geo Location": "Switzerland",
+    "Collection Date": "Jul-2014"
+  },
+  "MF422610.1": {
+    "Isolate": "CH",
+    "ID": "MF422610.1",
+    "Organism": "Potato virus Y",
+    "Length": 9710,
+    "Host": "Sotanum tuberosum",
+    "Geo Location": "Switzerland",
+    "Collection Date": "Jul-2014"
+  },
+  "MF440322.1": {
+    "Isolate": "MK",
+    "ID": "MF440322.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Datura metel",
+    "Geo Location": "Italy",
+    "Collection Date": "Sep-2009"
+  },
+  "MF960848.1": {
+    "Isolate": "ZT5",
+    "ID": "MF960848.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2005-01-01"
+  },
+  "MG591487.1": {
+    "Isolate": "PVYN",
+    "ID": "MG591487.1",
+    "Organism": "Potato virus Y",
+    "Length": 9724,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "Sep-2015"
+  },
+  "MG602674.1": {
+    "Isolate": "d7-Bindura",
+    "ID": "MG602674.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Capsicum annuum (bell pepper)",
+    "Geo Location": "Zimbabwe",
+    "Collection Date": "Apr-2014"
+  },
+  "MG602675.1": {
+    "Isolate": "prime-e5",
+    "ID": "MG602675.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Capsicum annuum (bell pepper)",
+    "Geo Location": "Zimbabwe",
+    "Collection Date": "Oct-2015"
+  },
+  "MG602676.1": {
+    "Isolate": "q19-Harare",
+    "ID": "MG602676.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Capsicum annuum (bell pepper)",
+    "Geo Location": "Zimbabwe",
+    "Collection Date": "Sep-2015"
+  },
+  "MH006954.1": {
+    "Isolate": "VRN36",
+    "ID": "MH006954.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2015-01-01"
+  },
+  "MH006955.1": {
+    "Isolate": "VRN59",
+    "ID": "MH006955.1",
+    "Organism": "Potato virus Y",
+    "Length": 9595,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2015-01-01"
+  },
+  "MH006956.1": {
+    "Isolate": "VRE82",
+    "ID": "MH006956.1",
+    "Organism": "Potato virus Y",
+    "Length": 9619,
+    "Host": "potato",
+    "Geo Location": "Israel",
+    "Collection Date": "2015-01-01"
+  },
+  "MH603861.1": {
+    "Isolate": "N/A",
+    "ID": "MH603861.1",
+    "Organism": "Potato virus Y",
+    "Length": 9626,
+    "Host": "potato",
+    "Geo Location": "South Korea",
+    "Collection Date": "2017-01-01"
+  },
+  "MH603862.1": {
+    "Isolate": "N/A",
+    "ID": "MH603862.1",
+    "Organism": "Potato virus Y",
+    "Length": 9572,
+    "Host": "potato",
+    "Geo Location": "South Korea",
+    "Collection Date": "2017-01-01"
+  },
+  "MH603863.1": {
+    "Isolate": "N/A",
+    "ID": "MH603863.1",
+    "Organism": "Potato virus Y",
+    "Length": 9586,
+    "Host": "potato",
+    "Geo Location": "South Korea",
+    "Collection Date": "2017-01-01"
+  },
+  "MH795841.1": {
+    "Isolate": "Cca01",
+    "ID": "MH795841.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum cv. Perricholi",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795842.1": {
+    "Isolate": "Cca07",
+    "ID": "MH795842.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum cv. Perricholi",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795843.1": {
+    "Isolate": "Cca10",
+    "ID": "MH795843.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum cv. Perricholi",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795844.1": {
+    "Isolate": "Czo18",
+    "ID": "MH795844.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum cv. Cica",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795845.1": {
+    "Isolate": "Czo31",
+    "ID": "MH795845.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Ccompis",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795846.1": {
+    "Isolate": "Czo42",
+    "ID": "MH795846.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum cv. Cica",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795847.1": {
+    "Isolate": "Czo102",
+    "ID": "MH795847.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum cv. Canchan",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795848.1": {
+    "Isolate": "Czo110",
+    "ID": "MH795848.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum cv. Canchan",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795849.1": {
+    "Isolate": "Hco26",
+    "ID": "MH795849.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum cv. Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795850.1": {
+    "Isolate": "Hco28",
+    "ID": "MH795850.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum tuberosum cv. Canchan",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795851.1": {
+    "Isolate": "Hco29",
+    "ID": "MH795851.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Canchan",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795852.1": {
+    "Isolate": "Hco30",
+    "ID": "MH795852.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum cv. Canchan",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795853.1": {
+    "Isolate": "Hco38",
+    "ID": "MH795853.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Yungay",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795854.1": {
+    "Isolate": "Hco39",
+    "ID": "MH795854.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Yungay",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795855.1": {
+    "Isolate": "Hco41",
+    "ID": "MH795855.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Yungay",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795856.1": {
+    "Isolate": "Hco42",
+    "ID": "MH795856.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum cv. Yungay",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795857.1": {
+    "Isolate": "Hco45",
+    "ID": "MH795857.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum tuberosum cv. Yungay",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795858.1": {
+    "Isolate": "Jin94",
+    "ID": "MH795858.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum tuberosum cv. Perricholi",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795859.1": {
+    "Isolate": "Jin95",
+    "ID": "MH795859.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum tuberosum cv. Perricholi",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795860.1": {
+    "Isolate": "Jin96",
+    "ID": "MH795860.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum tuberosum cv. Perricholi",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795861.1": {
+    "Isolate": "Jin125",
+    "ID": "MH795861.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum tuberosum cv. Yungay",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795862.1": {
+    "Isolate": "Czo129",
+    "ID": "MH795862.1",
+    "Organism": "Potato virus Y",
+    "Length": 9376,
+    "Host": "Solanum tuberosum cv. Cica",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795863.1": {
+    "Isolate": "Czo75",
+    "ID": "MH795863.1",
+    "Organism": "Potato virus Y",
+    "Length": 9640,
+    "Host": "Solanum tuberosum cv. Cica",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH795864.1": {
+    "Isolate": "Czo64",
+    "ID": "MH795864.1",
+    "Organism": "Potato virus Y",
+    "Length": 9668,
+    "Host": "Solanum tuberosum cv. Cica",
+    "Geo Location": "Peru",
+    "Collection Date": "2016-01-01"
+  },
+  "MH933741.1": {
+    "Isolate": "Harbin",
+    "ID": "MH933741.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "tobacoo",
+    "Geo Location": "China",
+    "Collection Date": "2017-06-08"
+  },
+  "MH933742.1": {
+    "Isolate": "MDJ",
+    "ID": "MH933742.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "tobacoo",
+    "Geo Location": "China",
+    "Collection Date": "2017-06-08"
+  },
+  "MH937417.1": {
+    "Isolate": "PvY-W13-136",
+    "ID": "MH937417.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "2013-09-16"
+  },
+  "MH986722.1": {
+    "Isolate": "PVYzu",
+    "ID": "MH986722.1",
+    "Organism": "Potato virus Y",
+    "Length": 9662,
+    "Host": "Zucchini",
+    "Geo Location": "China",
+    "Collection Date": "2017-05-10"
+  },
+  "MK024941.1": {
+    "Isolate": "B",
+    "ID": "MK024941.1",
+    "Organism": "Potato virus Y",
+    "Length": 9691,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2018-04-01"
+  },
+  "MK116553.1": {
+    "Isolate": "May8F",
+    "ID": "MK116553.1",
+    "Organism": "Potato virus Y",
+    "Length": 9663,
+    "Host": "Solanum phureja",
+    "Geo Location": "Colombia",
+    "Collection Date": "2018-04-13"
+  },
+  "MK190679.1": {
+    "Isolate": "HNJJ",
+    "ID": "MK190679.1",
+    "Organism": "Potato virus Y",
+    "Length": 9669,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2017-10-01"
+  },
+  "MK244382.1": {
+    "Isolate": "Tri05",
+    "ID": "MK244382.1",
+    "Organism": "Potato virus Y",
+    "Length": 699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "India",
+    "Collection Date": "2017-12-18"
+  },
+  "MK563993.1": {
+    "Isolate": "May4B",
+    "ID": "MK563993.1",
+    "Organism": "Potato virus Y",
+    "Length": 9691,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "May-2018"
+  },
+  "MK572827.1": {
+    "Isolate": "PVYN_O_R1S15L6",
+    "ID": "MK572827.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572828.1": {
+    "Isolate": "PVYN_O_R1S15L7",
+    "ID": "MK572828.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572829.1": {
+    "Isolate": "PVYN_O_R1S15L8",
+    "ID": "MK572829.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572830.1": {
+    "Isolate": "PVYN_O_R2S17L6",
+    "ID": "MK572830.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572831.1": {
+    "Isolate": "PVYN_O_R2S17L7",
+    "ID": "MK572831.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572832.1": {
+    "Isolate": "PVYN_O_R2S17L8",
+    "ID": "MK572832.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572833.1": {
+    "Isolate": "PVYN_O_R3S2L6",
+    "ID": "MK572833.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "KX356068.1": {
+    "Isolate": "PVY-3202",
+    "ID": "KX356068.1",
+    "Organism": "Potato virus Y strain NTN",
+    "Length": 9642,
+    "Host": "tobacco bait plant",
+    "Geo Location": "Poland",
+    "Collection Date": "1994-01-01"
+  },
+  "KX356069.1": {
+    "Isolate": "PVY-3303",
+    "ID": "KX356069.1",
+    "Organism": "Potato virus Y strain Z-NTN",
+    "Length": 9646,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "Poland",
+    "Collection Date": "1999-01-01"
+  },
+  "KX356070.1": {
+    "Isolate": "PVY-3411",
+    "ID": "KX356070.1",
+    "Organism": "Potato virus Y strain N-Wi",
+    "Length": 9642,
+    "Host": "tobacco bait plant",
+    "Geo Location": "Poland",
+    "Collection Date": "2001-01-01"
+  },
+  "KX650858.1": {
+    "Isolate": "Xch-1",
+    "ID": "KX650858.1",
+    "Organism": "Potato virus Y",
+    "Length": 9291,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2015-03-19"
+  },
+  "KX650859.1": {
+    "Isolate": "Xch-Wh",
+    "ID": "KX650859.1",
+    "Organism": "Potato virus Y",
+    "Length": 9301,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2015-03-19"
+  },
+  "KX650860.1": {
+    "Isolate": "Bzh-1",
+    "ID": "KX650860.1",
+    "Organism": "Potato virus Y",
+    "Length": 8825,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2015-03-19"
+  },
+  "KX650861.1": {
+    "Isolate": "Bzh-3",
+    "ID": "KX650861.1",
+    "Organism": "Potato virus Y",
+    "Length": 8970,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2015-03-19"
+  },
+  "KX650862.1": {
+    "Isolate": "Bzh-4",
+    "ID": "KX650862.1",
+    "Organism": "Potato virus Y",
+    "Length": 9412,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "China",
+    "Collection Date": "2015-03-19"
+  },
+  "KX688597.1": {
+    "Isolate": "HLJ-6-1",
+    "ID": "KX688597.1",
+    "Organism": "Potato virus Y",
+    "Length": 9713,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2012-06-07"
+  },
+  "KX688598.1": {
+    "Isolate": "HLJ-9-4",
+    "ID": "KX688598.1",
+    "Organism": "Potato virus Y",
+    "Length": 9713,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2012-07-25"
+  },
+  "KX688599.1": {
+    "Isolate": "HLJ-30-2",
+    "ID": "KX688599.1",
+    "Organism": "Potato virus Y",
+    "Length": 9713,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2012-08-05"
+  },
+  "KX688600.1": {
+    "Isolate": "HLJ-C-429",
+    "ID": "KX688600.1",
+    "Organism": "Potato virus Y",
+    "Length": 9708,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2011-08-23"
+  },
+  "KX688601.1": {
+    "Isolate": "INM-W-369-12",
+    "ID": "KX688601.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2012-07-21"
+  },
+  "KX688602.1": {
+    "Isolate": "SC-1-1-2",
+    "ID": "KX688602.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "China",
+    "Collection Date": "2013-06-04"
+  },
+  "KX713170.1": {
+    "Isolate": "SL16",
+    "ID": "KX713170.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "tomato",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2015-07-01"
+  },
+  "KX756672.1": {
+    "Isolate": "Capira",
+    "ID": "KX756672.1",
+    "Organism": "Potato virus Y",
+    "Length": 9711,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "2015-03-01"
+  },
+  "KX856986.1": {
+    "Isolate": "N/A",
+    "ID": "KX856986.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum cv. Pentland squire",
+    "Geo Location": "Slovenia",
+    "Collection Date": "2015-01-19"
+  },
+  "KY810782.1": {
+    "Isolate": "N/A",
+    "ID": "KY810782.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "N/A",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "2016-01-01"
+  },
+  "KY847935.1": {
+    "Isolate": "AL100001",
+    "ID": "KY847935.1",
+    "Organism": "Potato virus Y",
+    "Length": 9630,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847936.1": {
+    "Isolate": "CA14",
+    "ID": "KY847936.1",
+    "Organism": "Potato virus Y",
+    "Length": 9650,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847937.1": {
+    "Isolate": "CO11",
+    "ID": "KY847937.1",
+    "Organism": "Potato virus Y",
+    "Length": 9674,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847938.1": {
+    "Isolate": "CO86",
+    "ID": "KY847938.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847939.1": {
+    "Isolate": "ID1_4_32B",
+    "ID": "KY847939.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847940.1": {
+    "Isolate": "ID_1_7_12B",
+    "ID": "KY847940.1",
+    "Organism": "Potato virus Y",
+    "Length": 9623,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847941.1": {
+    "Isolate": "ID_1258",
+    "ID": "KY847941.1",
+    "Organism": "Potato virus Y",
+    "Length": 9674,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847942.1": {
+    "Isolate": "ID1_1_3A",
+    "ID": "KY847942.1",
+    "Organism": "Potato virus Y",
+    "Length": 9636,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847943.1": {
+    "Isolate": "ID1_3_11B",
+    "ID": "KY847943.1",
+    "Organism": "Potato virus Y",
+    "Length": 9638,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847944.1": {
+    "Isolate": "ID11_13_11b",
+    "ID": "KY847944.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847945.1": {
+    "Isolate": "ID11_13_12A",
+    "ID": "KY847945.1",
+    "Organism": "Potato virus Y",
+    "Length": 9638,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847946.1": {
+    "Isolate": "ID12_102IC3",
+    "ID": "KY847946.1",
+    "Organism": "Potato virus Y",
+    "Length": 9657,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY847947.1": {
+    "Isolate": "ID12_110Ban1",
+    "ID": "KY847947.1",
+    "Organism": "Potato virus Y",
+    "Length": 9640,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY847948.1": {
+    "Isolate": "ID12_22RN8",
+    "ID": "KY847948.1",
+    "Organism": "Potato virus Y",
+    "Length": 9657,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY847949.1": {
+    "Isolate": "ID12_401Chf",
+    "ID": "KY847949.1",
+    "Organism": "Potato virus Y",
+    "Length": 9637,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY847950.1": {
+    "Isolate": "ID125",
+    "ID": "KY847950.1",
+    "Organism": "Potato virus Y",
+    "Length": 9598,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847951.1": {
+    "Isolate": "ID1280",
+    "ID": "KY847951.1",
+    "Organism": "Potato virus Y",
+    "Length": 9605,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847952.1": {
+    "Isolate": "ID13_148Oth",
+    "ID": "KY847952.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2013-01-01"
+  },
+  "KY847953.1": {
+    "Isolate": "ID13_610Brw",
+    "ID": "KY847953.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2013-01-01"
+  },
+  "KY847954.1": {
+    "Isolate": "ID21",
+    "ID": "KY847954.1",
+    "Organism": "Potato virus Y",
+    "Length": 9676,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847955.1": {
+    "Isolate": "ID26",
+    "ID": "KY847955.1",
+    "Organism": "Potato virus Y",
+    "Length": 9639,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847956.1": {
+    "Isolate": "ID281_O5",
+    "ID": "KY847956.1",
+    "Organism": "Potato virus Y",
+    "Length": 9639,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847957.1": {
+    "Isolate": "ID38",
+    "ID": "KY847957.1",
+    "Organism": "Potato virus Y",
+    "Length": 9628,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847958.1": {
+    "Isolate": "ID50",
+    "ID": "KY847958.1",
+    "Organism": "Potato virus Y",
+    "Length": 9635,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847959.1": {
+    "Isolate": "ID89",
+    "ID": "KY847959.1",
+    "Organism": "Potato virus Y",
+    "Length": 9636,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847960.1": {
+    "Isolate": "ID90",
+    "ID": "KY847960.1",
+    "Organism": "Potato virus Y",
+    "Length": 9633,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847961.1": {
+    "Isolate": "Linda14",
+    "ID": "KY847961.1",
+    "Organism": "Potato virus Y",
+    "Length": 9630,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "2013-01-01"
+  },
+  "KY847962.1": {
+    "Isolate": "ME_236_120",
+    "ID": "KY847962.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847963.1": {
+    "Isolate": "ME_236_71",
+    "ID": "KY847963.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847964.1": {
+    "Isolate": "ME10",
+    "ID": "KY847964.1",
+    "Organism": "Potato virus Y",
+    "Length": 9674,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY847965.1": {
+    "Isolate": "ME100004",
+    "ID": "KY847965.1",
+    "Organism": "Potato virus Y",
+    "Length": 9642,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847966.1": {
+    "Isolate": "ME100007",
+    "ID": "KY847966.1",
+    "Organism": "Potato virus Y",
+    "Length": 9632,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847967.1": {
+    "Isolate": "ME100008",
+    "ID": "KY847967.1",
+    "Organism": "Potato virus Y",
+    "Length": 9535,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847968.1": {
+    "Isolate": "ME100011",
+    "ID": "KY847968.1",
+    "Organism": "Potato virus Y",
+    "Length": 9595,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847969.1": {
+    "Isolate": "ME100031",
+    "ID": "KY847969.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847970.1": {
+    "Isolate": "ME110008",
+    "ID": "KY847970.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2011-01-01"
+  },
+  "KY847971.1": {
+    "Isolate": "ME110032",
+    "ID": "KY847971.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2011-01-01"
+  },
+  "KY847972.1": {
+    "Isolate": "ME200cornell",
+    "ID": "KY847972.1",
+    "Organism": "Potato virus Y",
+    "Length": 9625,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847973.1": {
+    "Isolate": "ME4",
+    "ID": "KY847973.1",
+    "Organism": "Potato virus Y",
+    "Length": 9674,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847974.1": {
+    "Isolate": "ME81",
+    "ID": "KY847974.1",
+    "Organism": "Potato virus Y",
+    "Length": 9632,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847975.1": {
+    "Isolate": "ME9",
+    "ID": "KY847975.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY847976.1": {
+    "Isolate": "MI090004",
+    "ID": "KY847976.1",
+    "Organism": "Potato virus Y",
+    "Length": 9639,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY847977.1": {
+    "Isolate": "MI110011",
+    "ID": "KY847977.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2011-01-01"
+  },
+  "KY847978.1": {
+    "Isolate": "MN10c_26",
+    "ID": "KY847978.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847979.1": {
+    "Isolate": "MN121",
+    "ID": "KY847979.1",
+    "Organism": "Potato virus Y",
+    "Length": 9614,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847980.1": {
+    "Isolate": "MN13a_39",
+    "ID": "KY847980.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847981.1": {
+    "Isolate": "MN15_G_52",
+    "ID": "KY847981.1",
+    "Organism": "Potato virus Y",
+    "Length": 9638,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847982.1": {
+    "Isolate": "MN21",
+    "ID": "KY847982.1",
+    "Organism": "Potato virus Y",
+    "Length": 9610,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847983.1": {
+    "Isolate": "MN85",
+    "ID": "KY847983.1",
+    "Organism": "Potato virus Y",
+    "Length": 9645,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847984.1": {
+    "Isolate": "MSU_45_384a",
+    "ID": "KY847984.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY847985.1": {
+    "Isolate": "MSU_59_383b",
+    "ID": "KY847985.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY847986.1": {
+    "Isolate": "MT100006",
+    "ID": "KY847986.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847987.1": {
+    "Isolate": "MT100010",
+    "ID": "KY847987.1",
+    "Organism": "Potato virus Y",
+    "Length": 9655,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847988.1": {
+    "Isolate": "MT100017",
+    "ID": "KY847988.1",
+    "Organism": "Potato virus Y",
+    "Length": 9633,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847989.1": {
+    "Isolate": "MT29",
+    "ID": "KY847989.1",
+    "Organism": "Potato virus Y",
+    "Length": 9630,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847990.1": {
+    "Isolate": "MT52",
+    "ID": "KY847990.1",
+    "Organism": "Potato virus Y",
+    "Length": 9646,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847991.1": {
+    "Isolate": "MT63",
+    "ID": "KY847991.1",
+    "Organism": "Potato virus Y",
+    "Length": 9683,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847992.1": {
+    "Isolate": "ND100040",
+    "ID": "KY847992.1",
+    "Organism": "Potato virus Y",
+    "Length": 9635,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY847993.1": {
+    "Isolate": "ND110037",
+    "ID": "KY847993.1",
+    "Organism": "Potato virus Y",
+    "Length": 9626,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2011-01-01"
+  },
+  "KY847994.1": {
+    "Isolate": "ND121",
+    "ID": "KY847994.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847995.1": {
+    "Isolate": "ND18",
+    "ID": "KY847995.1",
+    "Organism": "Potato virus Y",
+    "Length": 9676,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY847996.1": {
+    "Isolate": "ND2",
+    "ID": "KY847996.1",
+    "Organism": "Potato virus Y",
+    "Length": 9621,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847997.1": {
+    "Isolate": "ND23",
+    "ID": "KY847997.1",
+    "Organism": "Potato virus Y",
+    "Length": 9630,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2006-01-01"
+  },
+  "KY847998.1": {
+    "Isolate": "ND35",
+    "ID": "KY847998.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY847999.1": {
+    "Isolate": "ND65",
+    "ID": "KY847999.1",
+    "Organism": "Potato virus Y",
+    "Length": 9570,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848000.1": {
+    "Isolate": "ND68",
+    "ID": "KY848000.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848001.1": {
+    "Isolate": "ND71",
+    "ID": "KY848001.1",
+    "Organism": "Potato virus Y",
+    "Length": 9677,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848002.1": {
+    "Isolate": "ND98",
+    "ID": "KY848002.1",
+    "Organism": "Potato virus Y",
+    "Length": 9639,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848003.1": {
+    "Isolate": "ND99",
+    "ID": "KY848003.1",
+    "Organism": "Potato virus Y",
+    "Length": 9635,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848004.1": {
+    "Isolate": "NE38",
+    "ID": "KY848004.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848005.1": {
+    "Isolate": "NE40",
+    "ID": "KY848005.1",
+    "Organism": "Potato virus Y",
+    "Length": 9584,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2004-01-01"
+  },
+  "KY848006.1": {
+    "Isolate": "NE6",
+    "ID": "KY848006.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2005-01-01"
+  },
+  "KY848007.1": {
+    "Isolate": "NY090004",
+    "ID": "KY848007.1",
+    "Organism": "Potato virus Y",
+    "Length": 9625,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY848008.1": {
+    "Isolate": "NY090029",
+    "ID": "KY848008.1",
+    "Organism": "Potato virus Y",
+    "Length": 9642,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY848009.1": {
+    "Isolate": "NY090031",
+    "ID": "KY848009.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2009-01-01"
+  },
+  "KY848010.1": {
+    "Isolate": "NY100001",
+    "ID": "KY848010.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY848011.1": {
+    "Isolate": "NY100002",
+    "ID": "KY848011.1",
+    "Organism": "Potato virus Y",
+    "Length": 9549,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY848012.1": {
+    "Isolate": "NY100003",
+    "ID": "KY848012.1",
+    "Organism": "Potato virus Y",
+    "Length": 9633,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY848013.1": {
+    "Isolate": "NY100086",
+    "ID": "KY848013.1",
+    "Organism": "Potato virus Y",
+    "Length": 9595,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2010-01-01"
+  },
+  "KY848014.1": {
+    "Isolate": "NY110001",
+    "ID": "KY848014.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "USA",
+    "Collection Date": "2011-01-01"
+  },
+  "KY848015.1": {
+    "Isolate": "NY120001",
+    "ID": "KY848015.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "KY848016.1": {
+    "Isolate": "NY120002",
+    "ID": "KY848016.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "ON604845.1": {
+    "Isolate": "DSMZ PV-1332",
+    "ID": "ON604845.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "ON866943.1": {
+    "Isolate": "NTN WA",
+    "ID": "ON866943.1",
+    "Organism": "Potato virus Y",
+    "Length": 9706,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "N/A"
+  },
+  "OP131591.1": {
+    "Isolate": "GXnd1",
+    "ID": "OP131591.1",
+    "Organism": "Potato virus Y",
+    "Length": 9708,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2022-05-31"
+  },
+  "OP150414.1": {
+    "Isolate": "DSMZ PV-1352",
+    "ID": "OP150414.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "OP179326.1": {
+    "Isolate": "YN 77",
+    "ID": "OP179326.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum L.",
+    "Geo Location": "China",
+    "Collection Date": "2014-05-29"
+  },
+  "OP179327.1": {
+    "Isolate": "GZ 137",
+    "ID": "OP179327.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum L.",
+    "Geo Location": "China",
+    "Collection Date": "2014-05-30"
+  },
+  "OP381085.1": {
+    "Isolate": "FFLK33_O",
+    "ID": "OP381085.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "South Africa",
+    "Collection Date": "2018/2019"
+  },
+  "OP429428.1": {
+    "Isolate": "Apu021",
+    "ID": "OP429428.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum; cultivar Semilla negra",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-04"
+  },
+  "OP429429.1": {
+    "Isolate": "Lim075-1",
+    "ID": "OP429429.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum; cultivar Semilla negra",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429430.1": {
+    "Isolate": "Lim075-2",
+    "ID": "OP429430.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Semilla negra",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429431.1": {
+    "Isolate": "Lim075-3",
+    "ID": "OP429431.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Semilla negra",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429432.1": {
+    "Isolate": "Lim075-4",
+    "ID": "OP429432.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Semilla negra",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429433.1": {
+    "Isolate": "Lim075-5",
+    "ID": "OP429433.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Semilla negra",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429434.1": {
+    "Isolate": "Lim076-1",
+    "ID": "OP429434.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429435.1": {
+    "Isolate": "Lim076-2",
+    "ID": "OP429435.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429436.1": {
+    "Isolate": "Lim076-3",
+    "ID": "OP429436.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429437.1": {
+    "Isolate": "Lim077-1",
+    "ID": "OP429437.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429438.1": {
+    "Isolate": "Lim077-2",
+    "ID": "OP429438.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429439.1": {
+    "Isolate": "Lim077-3",
+    "ID": "OP429439.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429440.1": {
+    "Isolate": "Lim077-4",
+    "ID": "OP429440.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429441.1": {
+    "Isolate": "Lim078-1",
+    "ID": "OP429441.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429442.1": {
+    "Isolate": "Lim078-2",
+    "ID": "OP429442.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429443.1": {
+    "Isolate": "Lim078-3",
+    "ID": "OP429443.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429444.1": {
+    "Isolate": "Lim078-4",
+    "ID": "OP429444.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429445.1": {
+    "Isolate": "Lim078-5",
+    "ID": "OP429445.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429446.1": {
+    "Isolate": "Lim079-1",
+    "ID": "OP429446.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429447.1": {
+    "Isolate": "Lim079-2",
+    "ID": "OP429447.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429448.1": {
+    "Isolate": "Lim079-3",
+    "ID": "OP429448.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429449.1": {
+    "Isolate": "Lim079-4",
+    "ID": "OP429449.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429450.1": {
+    "Isolate": "Lim080-1",
+    "ID": "OP429450.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429451.1": {
+    "Isolate": "Lim080-2",
+    "ID": "OP429451.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2017-09-12"
+  },
+  "OP429452.1": {
+    "Isolate": "Pun021",
+    "ID": "OP429452.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-02"
+  },
+  "OP429453.1": {
+    "Isolate": "Pun022-1",
+    "ID": "OP429453.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-02"
+  },
+  "OP429454.1": {
+    "Isolate": "Pun022-2",
+    "ID": "OP429454.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-02"
+  },
+  "OP429455.1": {
+    "Isolate": "Pun027",
+    "ID": "OP429455.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-02"
+  },
+  "OP429456.1": {
+    "Isolate": "Pun029-1",
+    "ID": "OP429456.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Capiro",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-02"
+  },
+  "OP429457.1": {
+    "Isolate": "Pun029-2",
+    "ID": "OP429457.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum; cultivar Blanca",
+    "Geo Location": "Peru",
+    "Collection Date": "2018-04-02"
+  },
+  "OP525284.1": {
+    "Isolate": "DSMZ PV-0322",
+    "ID": "OP525284.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Australia",
+    "Collection Date": "N/A"
+  },
+  "OP525288.1": {
+    "Isolate": "DSMZ PV-0446",
+    "ID": "OP525288.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "OP525294.1": {
+    "Isolate": "DSMZ PV-1056",
+    "ID": "OP525294.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "Iran",
+    "Collection Date": "N/A"
+  },
+  "OP547866.1": {
+    "Isolate": "Saladdin",
+    "ID": "OP547866.1",
+    "Organism": "Potato virus Y",
+    "Length": 9692,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Iraq",
+    "Collection Date": "2022-03-15"
+  },
+  "OP643836.1": {
+    "Isolate": "PVY-27Vin09",
+    "ID": "OP643836.1",
+    "Organism": "Potato virus Y",
+    "Length": 9642,
+    "Host": "Solanum tuberosum L.'",
+    "Geo Location": "Poland",
+    "Collection Date": "2009-01-01"
+  },
+  "OP643837.1": {
+    "Isolate": "PVY-19Raj09",
+    "ID": "OP643837.1",
+    "Organism": "Potato virus Y",
+    "Length": 9642,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Poland",
+    "Collection Date": "2009-01-01"
+  },
+  "OP722617.1": {
+    "Isolate": "DSMZ PV-0323",
+    "ID": "OP722617.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "New Zealand",
+    "Collection Date": "N/A"
+  },
+  "OP722618.1": {
+    "Isolate": "DSMZ PV-0325",
+    "ID": "OP722618.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Australia",
+    "Collection Date": "N/A"
+  },
+  "OP722619.1": {
+    "Isolate": "DSMZ PV-0403",
+    "ID": "OP722619.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Hungary",
+    "Collection Date": "N/A"
+  },
+  "OQ102071.1": {
+    "Isolate": "DSMZ PV-1370",
+    "ID": "OQ102071.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "OQ534352.1": {
+    "Isolate": "52STT21S",
+    "ID": "OQ534352.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Sep-2021"
+  },
+  "OQ534353.1": {
+    "Isolate": "85DOPt22S",
+    "ID": "OQ534353.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "potato",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ534354.1": {
+    "Isolate": "86DOW22S",
+    "ID": "OQ534354.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Amaranthus blitum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ534355.1": {
+    "Isolate": "102SEC22S",
+    "ID": "OQ534355.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "cucumber",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ534356.1": {
+    "Isolate": "104DOT22S",
+    "ID": "OQ534356.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ534357.1": {
+    "Isolate": "105DOT22S",
+    "ID": "OQ534357.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ534358.1": {
+    "Isolate": "106DOT22S",
+    "ID": "OQ534358.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ534359.1": {
+    "Isolate": "107DOT22S",
+    "ID": "OQ534359.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OQ729738.1": {
+    "Isolate": "108DOT22S",
+    "ID": "OQ729738.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Croatia",
+    "Collection Date": "Jun-2022"
+  },
+  "OR133700.1": {
+    "Isolate": "PVY_CH6",
+    "ID": "OR133700.1",
+    "Organism": "Potato virus Y",
+    "Length": 9619,
+    "Host": "Solanum tuberosum cv. Ranger Russet",
+    "Geo Location": "China",
+    "Collection Date": "Jun-2018"
+  },
+  "OR133701.1": {
+    "Isolate": "PVY_CH11",
+    "ID": "OR133701.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum tuberosum cv. Ranger Russet",
+    "Geo Location": "China",
+    "Collection Date": "Jun-2018"
+  },
+  "OR133702.1": {
+    "Isolate": "PVY_CH17",
+    "ID": "OR133702.1",
+    "Organism": "Potato virus Y",
+    "Length": 9615,
+    "Host": "Solanum tuberosum cv. Ranger Russet",
+    "Geo Location": "China",
+    "Collection Date": "Jun-2018"
+  },
+  "OR133703.1": {
+    "Isolate": "PVY_CH22",
+    "ID": "OR133703.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum cv. Shepody",
+    "Geo Location": "China",
+    "Collection Date": "Jun-2018"
+  },
+  "OR133704.1": {
+    "Isolate": "PVY_CH42",
+    "ID": "OR133704.1",
+    "Organism": "Potato virus Y",
+    "Length": 9619,
+    "Host": "Solanum tuberosum cv. Shepody",
+    "Geo Location": "China",
+    "Collection Date": "Jun-2018"
+  },
+  "OR133705.1": {
+    "Isolate": "PVY_CH44",
+    "ID": "OR133705.1",
+    "Organism": "Potato virus Y",
+    "Length": 9634,
+    "Host": "Solanum tuberosum cv. Ranger Russet",
+    "Geo Location": "China",
+    "Collection Date": "Jun-2018"
+  },
+  "OR479972.1": {
+    "Isolate": "PVY-L21MI36V-RUS-2021",
+    "ID": "OR479972.1",
+    "Organism": "Potato virus Y",
+    "Length": 9669,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479973.1": {
+    "Isolate": "PVY-L21ML43V-RUS-2021",
+    "ID": "OR479973.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479974.1": {
+    "Isolate": "PVY-L21MI33V-RUS-2021",
+    "ID": "OR479974.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479975.1": {
+    "Isolate": "PVY-L21MI34V-RUS-2021",
+    "ID": "OR479975.1",
+    "Organism": "Potato virus Y",
+    "Length": 9760,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479976.1": {
+    "Isolate": "PVY-L21MI35V-RUS-2021",
+    "ID": "OR479976.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479977.1": {
+    "Isolate": "PVY-L21AL5V-RUS-2021",
+    "ID": "OR479977.1",
+    "Organism": "Potato virus Y",
+    "Length": 9670,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479978.1": {
+    "Isolate": "PVY-L21ML44V-RUS-2021",
+    "ID": "OR479978.1",
+    "Organism": "Potato virus Y",
+    "Length": 9724,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479979.1": {
+    "Isolate": "PVY-L21AI3V-RUS-2021",
+    "ID": "OR479979.1",
+    "Organism": "Potato virus Y",
+    "Length": 9685,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479980.1": {
+    "Isolate": "PVY-L21ML42V-RUS-2021",
+    "ID": "OR479980.1",
+    "Organism": "Potato virus Y",
+    "Length": 9693,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479981.1": {
+    "Isolate": "PVY-L21ML41.1T-RUS-2021",
+    "ID": "OR479981.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479982.1": {
+    "Isolate": "PVY-L21AI1.1T-RUS-2021",
+    "ID": "OR479982.1",
+    "Organism": "Potato virus Y",
+    "Length": 9715,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479983.1": {
+    "Isolate": "PVY-L21AL6.1V-RUS-2021",
+    "ID": "OR479983.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479984.1": {
+    "Isolate": "PVY-L21AL8.2V-RUS-2021",
+    "ID": "OR479984.1",
+    "Organism": "Potato virus Y",
+    "Length": 9686,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479985.1": {
+    "Isolate": "PVY-L21AL7V-RUS-2021",
+    "ID": "OR479985.1",
+    "Organism": "Potato virus Y",
+    "Length": 9714,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479986.1": {
+    "Isolate": "PVY-L21AI2.1T-RUS-2021",
+    "ID": "OR479986.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479987.1": {
+    "Isolate": "PVY-L21ML41R-RUS-2021",
+    "ID": "OR479987.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479988.1": {
+    "Isolate": "PVY-L21ML41.2T-RUS-2021",
+    "ID": "OR479988.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479989.1": {
+    "Isolate": "PVY-L21AI1.3T-RUS-2021",
+    "ID": "OR479989.1",
+    "Organism": "Potato virus Y",
+    "Length": 9713,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479990.1": {
+    "Isolate": "PVY-L21AI2.2T-RUS-2021",
+    "ID": "OR479990.1",
+    "Organism": "Potato virus Y",
+    "Length": 9508,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479991.1": {
+    "Isolate": "PVY-L21AI2.3T-RUS-2021",
+    "ID": "OR479991.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479992.1": {
+    "Isolate": "PVY-L21AI2.4T-RUS-2021",
+    "ID": "OR479992.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479993.1": {
+    "Isolate": "PVY-L21AL8.3V-RUS-2021",
+    "ID": "OR479993.1",
+    "Organism": "Potato virus Y",
+    "Length": 9686,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479994.1": {
+    "Isolate": "PVY-L21AL8.4V-RUS-2021",
+    "ID": "OR479994.1",
+    "Organism": "Potato virus Y",
+    "Length": 9679,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479995.1": {
+    "Isolate": "PVY-L21AL6.2V-RUS-2021",
+    "ID": "OR479995.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479996.1": {
+    "Isolate": "PVY-L21AL6R-RUS-2021",
+    "ID": "OR479996.1",
+    "Organism": "Potato virus Y",
+    "Length": 9681,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479997.1": {
+    "Isolate": "PVY-L21AI4T-RUS-2021",
+    "ID": "OR479997.1",
+    "Organism": "Potato virus Y",
+    "Length": 9660,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479998.1": {
+    "Isolate": "PVY-T21MI25V-RUS-2021",
+    "ID": "OR479998.1",
+    "Organism": "Potato virus Y",
+    "Length": 9770,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR479999.1": {
+    "Isolate": "PVY-T21MI28V-RUS-2021",
+    "ID": "OR479999.1",
+    "Organism": "Potato virus Y",
+    "Length": 9752,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480000.1": {
+    "Isolate": "PVY-T21ML33V-RUS-2021",
+    "ID": "OR480000.1",
+    "Organism": "Potato virus Y",
+    "Length": 9787,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480001.1": {
+    "Isolate": "PVY-T21ML35V-RUS-2021",
+    "ID": "OR480001.1",
+    "Organism": "Potato virus Y",
+    "Length": 9772,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480002.1": {
+    "Isolate": "PVY-T21AI1R-RUS-2021",
+    "ID": "OR480002.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480003.1": {
+    "Isolate": "PVY-T21AI3.1R-RUS-2021",
+    "ID": "OR480003.1",
+    "Organism": "Potato virus Y",
+    "Length": 9743,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480004.1": {
+    "Isolate": "PVY-T21AI3.2R-RUS-2021",
+    "ID": "OR480004.1",
+    "Organism": "Potato virus Y",
+    "Length": 9743,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480005.1": {
+    "Isolate": "PVY-T21AI4.1R-RUS-2021",
+    "ID": "OR480005.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480006.1": {
+    "Isolate": "PVY-T21AI4.2R-RUS-2021",
+    "ID": "OR480006.1",
+    "Organism": "Potato virus Y",
+    "Length": 9693,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480007.1": {
+    "Isolate": "PVY-T21AL5.1R-RUS-2021",
+    "ID": "OR480007.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480008.1": {
+    "Isolate": "PVY-T21AL5.2R-RUS-2021",
+    "ID": "OR480008.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480009.1": {
+    "Isolate": "PVY-T21AL6.1R-RUS-2021",
+    "ID": "OR480009.1",
+    "Organism": "Potato virus Y",
+    "Length": 9787,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "MK572834.1": {
+    "Isolate": "PVYN_O_R3S2L7",
+    "ID": "MK572834.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572835.1": {
+    "Isolate": "PVYN_O_R3S2L8",
+    "ID": "MK572835.1",
+    "Organism": "Potato virus Y",
+    "Length": 9618,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572836.1": {
+    "Isolate": "PVYO_R1S12L6",
+    "ID": "MK572836.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572837.1": {
+    "Isolate": "PVYO_R1S12L7",
+    "ID": "MK572837.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572838.1": {
+    "Isolate": "PVYO_R1S12L8",
+    "ID": "MK572838.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572839.1": {
+    "Isolate": "PVYO_R2S14L6",
+    "ID": "MK572839.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572840.1": {
+    "Isolate": "PVYO_R2S14L7",
+    "ID": "MK572840.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "Jun-2018"
+  },
+  "MK572841.1": {
+    "Isolate": "PVYO_R2S14L8",
+    "ID": "MK572841.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MK572842.1": {
+    "Isolate": "PVYO_R3S16L6",
+    "ID": "MK572842.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MK572843.1": {
+    "Isolate": "PVYO_R3S16L7",
+    "ID": "MK572843.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MK572844.1": {
+    "Isolate": "PVYO_R3S16L8",
+    "ID": "MK572844.1",
+    "Organism": "Potato virus Y",
+    "Length": 9673,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MN125072.1": {
+    "Isolate": "PVY_quitoense_M6",
+    "ID": "MN125072.1",
+    "Organism": "Potato virus Y",
+    "Length": 9531,
+    "Host": "Solanum quitoense",
+    "Geo Location": "Colombia",
+    "Collection Date": "2018-01-01"
+  },
+  "MN381731.1": {
+    "Isolate": "GZ",
+    "ID": "MN381731.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "tobacco",
+    "Geo Location": "China",
+    "Collection Date": "2017-06-20"
+  },
+  "MN689498.1": {
+    "Isolate": "18-1049",
+    "ID": "MN689498.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Kenya",
+    "Collection Date": "May-2018"
+  },
+  "MN689499.1": {
+    "Isolate": "18-1057",
+    "ID": "MN689499.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Kenya",
+    "Collection Date": "May-2018"
+  },
+  "MN689500.1": {
+    "Isolate": "18-1052",
+    "ID": "MN689500.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Kenya",
+    "Collection Date": "May-2018"
+  },
+  "MN689501.1": {
+    "Isolate": "18-1061",
+    "ID": "MN689501.1",
+    "Organism": "Potato virus Y",
+    "Length": 9718,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Kenya",
+    "Collection Date": "May-2018"
+  },
+  "MN689502.1": {
+    "Isolate": "18-1048",
+    "ID": "MN689502.1",
+    "Organism": "Potato virus Y",
+    "Length": 9800,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Kenya",
+    "Collection Date": "May-2018"
+  },
+  "MT114151.1": {
+    "Isolate": "M",
+    "ID": "MT114151.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Canada",
+    "Collection Date": "Jul-2018"
+  },
+  "MT200665.1": {
+    "Isolate": "R",
+    "ID": "MT200665.1",
+    "Organism": "Potato virus Y",
+    "Length": 9606,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1943-01-01"
+  },
+  "MT200666.1": {
+    "Isolate": "RM",
+    "ID": "MT200666.1",
+    "Organism": "Potato virus Y",
+    "Length": 9683,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1981-01-01"
+  },
+  "MT200667.1": {
+    "Isolate": "M",
+    "ID": "MT200667.1",
+    "Organism": "Potato virus Y",
+    "Length": 9652,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "N/A",
+    "Collection Date": "1983-01-01"
+  },
+  "MT200668.1": {
+    "Isolate": "CM1",
+    "ID": "MT200668.1",
+    "Organism": "Potato virus Y",
+    "Length": 9667,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "1981-01-01"
+  },
+  "MT200669.1": {
+    "Isolate": "BL2",
+    "ID": "MT200669.1",
+    "Organism": "Potato virus Y",
+    "Length": 9627,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Australia",
+    "Collection Date": "2014-01-01"
+  },
+  "MT200670.1": {
+    "Isolate": "Mex43",
+    "ID": "MT200670.1",
+    "Organism": "Potato virus Y",
+    "Length": 9608,
+    "Host": "Solanum sp. (wild)",
+    "Geo Location": "Mexico",
+    "Collection Date": "2014-01-01"
+  },
+  "MT200671.1": {
+    "Isolate": "MT12_Oth288",
+    "ID": "MT200671.1",
+    "Organism": "Potato virus Y",
+    "Length": 9623,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "MT200672.1": {
+    "Isolate": "MT12_Oth295",
+    "ID": "MT200672.1",
+    "Organism": "Potato virus Y",
+    "Length": 9624,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2012-01-01"
+  },
+  "MT200673.1": {
+    "Isolate": "WWA150131_G4_8",
+    "ID": "MT200673.1",
+    "Organism": "Potato virus Y",
+    "Length": 9615,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2015-01-01"
+  },
+  "MT264731.1": {
+    "Isolate": "P026",
+    "ID": "MT264731.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2017-06-26"
+  },
+  "MT264732.1": {
+    "Isolate": "P097",
+    "ID": "MT264732.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2017-09-11"
+  },
+  "MT264733.1": {
+    "Isolate": "P099",
+    "ID": "MT264733.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2017-09-11"
+  },
+  "MT264734.1": {
+    "Isolate": "P156",
+    "ID": "MT264734.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2018-07-25"
+  },
+  "MT264735.1": {
+    "Isolate": "P141",
+    "ID": "MT264735.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2018-07-16"
+  },
+  "MT264736.1": {
+    "Isolate": "P221a",
+    "ID": "MT264736.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2018-09-12"
+  },
+  "MT264737.1": {
+    "Isolate": "P221b",
+    "ID": "MT264737.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2018-09-12"
+  },
+  "MT264738.1": {
+    "Isolate": "P059",
+    "ID": "MT264738.1",
+    "Organism": "Potato virus Y",
+    "Length": 9687,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Ireland",
+    "Collection Date": "2017-08-17"
+  },
+  "MT350288.1": {
+    "Isolate": "N/A",
+    "ID": "MT350288.1",
+    "Organism": "Potato virus Y",
+    "Length": 9478,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MT350289.1": {
+    "Isolate": "N/A",
+    "ID": "MT350289.1",
+    "Organism": "Potato virus Y",
+    "Length": 9520,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MT350290.1": {
+    "Isolate": "N/A",
+    "ID": "MT350290.1",
+    "Organism": "Potato virus Y",
+    "Length": 9507,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MT585815.1": {
+    "Isolate": "DSMZ PV-0025",
+    "ID": "MT585815.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum cv. Goldwaehrung",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "MT799186.1": {
+    "Isolate": "DX",
+    "ID": "MT799186.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2015-06-05"
+  },
+  "MW290337.1": {
+    "Isolate": "PVY-SYRIII",
+    "ID": "MW290337.1",
+    "Organism": "Potato virus Y",
+    "Length": 9680,
+    "Host": "potato",
+    "Geo Location": "Saudi Arabia",
+    "Collection Date": "2019-01-01"
+  },
+  "MW520861.1": {
+    "Isolate": "RE-RE1375-Grand Tampon-2018",
+    "ID": "MW520861.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Reunion",
+    "Collection Date": "2018-06-01"
+  },
+  "MW595181.1": {
+    "Isolate": "PAP",
+    "ID": "MW595181.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Capsicum annuum",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2019-01-01"
+  },
+  "MW595182.1": {
+    "Isolate": "T20",
+    "ID": "MW595182.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "tomato",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2017-01-01"
+  },
+  "MW595183.1": {
+    "Isolate": "T24",
+    "ID": "MW595183.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "tomato",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2017-01-01"
+  },
+  "MW595184.1": {
+    "Isolate": "T31",
+    "ID": "MW595184.1",
+    "Organism": "Potato virus Y",
+    "Length": 9696,
+    "Host": "tomato",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2017-01-01"
+  },
+  "MW595185.1": {
+    "Isolate": "T101",
+    "ID": "MW595185.1",
+    "Organism": "Potato virus Y",
+    "Length": 9695,
+    "Host": "tomato",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2019-01-01"
+  },
+  "MW595186.1": {
+    "Isolate": "PAR-P2",
+    "ID": "MW595186.1",
+    "Organism": "Potato virus Y",
+    "Length": 9693,
+    "Host": "Capsicum annuum",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2018-01-01"
+  },
+  "MW595187.1": {
+    "Isolate": "SL50V",
+    "ID": "MW595187.1",
+    "Organism": "Potato virus Y",
+    "Length": 9680,
+    "Host": "tomato",
+    "Geo Location": "Slovakia",
+    "Collection Date": "2018-01-01"
+  },
+  "MW727278.1": {
+    "Isolate": "PP",
+    "ID": "MW727278.1",
+    "Organism": "Potato virus Y",
+    "Length": 9707,
+    "Host": "Solanum tuberosum; cultivar: Peruvian Purple",
+    "Geo Location": "Australia",
+    "Collection Date": "2018-01-01"
+  },
+  "MW811190.1": {
+    "Isolate": "1510",
+    "ID": "MW811190.1",
+    "Organism": "Potato virus Y",
+    "Length": 9737,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Taiwan",
+    "Collection Date": "2000-05-30"
+  },
+  "MW811191.1": {
+    "Isolate": "SY4",
+    "ID": "MW811191.1",
+    "Organism": "Potato virus Y",
+    "Length": 9467,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Taiwan",
+    "Collection Date": "N/A"
+  },
+  "MW960028.1": {
+    "Isolate": "Gorgan",
+    "ID": "MW960028.1",
+    "Organism": "Potato virus Y",
+    "Length": 9710,
+    "Host": "potato",
+    "Geo Location": "Iran",
+    "Collection Date": "2020-01-01"
+  },
+  "MZ202342.1": {
+    "Isolate": "DSMZ PV-0890",
+    "ID": "MZ202342.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Capsicum annuum",
+    "Geo Location": "Iran",
+    "Collection Date": "N/A"
+  },
+  "MZ296922.1": {
+    "Isolate": "BST16",
+    "ID": "MZ296922.1",
+    "Organism": "Potato virus Y",
+    "Length": 9647,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "Feb-1928"
+  },
+  "MZ296923.1": {
+    "Isolate": "BST15",
+    "ID": "MZ296923.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Colombia",
+    "Collection Date": "Feb-1928"
+  },
+  "MZ296924.1": {
+    "Isolate": "BSP14",
+    "ID": "MZ296924.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "Solanum phureja",
+    "Geo Location": "Colombia",
+    "Collection Date": "Feb-1928"
+  },
+  "NC_001616.1": {
+    "Isolate": "N/A",
+    "ID": "NC_001616.1",
+    "Organism": "Potato virus Y",
+    "Length": 9704,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "OK356636.1": {
+    "Isolate": "PVY_MSU457",
+    "ID": "OK356636.1",
+    "Organism": "Potato virus Y",
+    "Length": 9620,
+    "Host": "Solanum tuberosum cv. Alturas (potato)",
+    "Geo Location": "USA",
+    "Collection Date": "2011-12-28"
+  },
+  "OK356637.1": {
+    "Isolate": "PVY_MSU470",
+    "ID": "OK356637.1",
+    "Organism": "Potato virus Y",
+    "Length": 9572,
+    "Host": "Solanum tuberosum cv. Umatilla (potato)",
+    "Geo Location": "USA",
+    "Collection Date": "2011-12-28"
+  },
+  "OK491082.1": {
+    "Isolate": "SXHR-2",
+    "ID": "OK491082.1",
+    "Organism": "Potato virus Y",
+    "Length": 9686,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK491083.1": {
+    "Isolate": "SXKL-12",
+    "ID": "OK491083.1",
+    "Organism": "Potato virus Y",
+    "Length": 9676,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK491084.1": {
+    "Isolate": "SXLX-2",
+    "ID": "OK491084.1",
+    "Organism": "Potato virus Y",
+    "Length": 9683,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK491085.1": {
+    "Isolate": "SXPX-15",
+    "ID": "OK491085.1",
+    "Organism": "Potato virus Y",
+    "Length": 9680,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK491086.1": {
+    "Isolate": "SXQY-4",
+    "ID": "OK491086.1",
+    "Organism": "Potato virus Y",
+    "Length": 9681,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK491087.1": {
+    "Isolate": "SXWS-24",
+    "ID": "OK491087.1",
+    "Organism": "Potato virus Y",
+    "Length": 9681,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK491088.1": {
+    "Isolate": "SXZY-40",
+    "ID": "OK491088.1",
+    "Organism": "Potato virus Y",
+    "Length": 9680,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2019/2020"
+  },
+  "OK625582.1": {
+    "Isolate": "6RSAU",
+    "ID": "OK625582.1",
+    "Organism": "Potato virus Y",
+    "Length": 9725,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL471715.1": {
+    "Isolate": "Nto_PVY",
+    "ID": "OL471715.1",
+    "Organism": "Potato virus Y",
+    "Length": 9707,
+    "Host": "Nicotiana tabacum (tobacco)",
+    "Geo Location": "South Africa",
+    "Collection Date": "Feb-2019"
+  },
+  "OL472145.1": {
+    "Isolate": "BER19ST1",
+    "ID": "OL472145.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Jul-2019"
+  },
+  "OL472146.1": {
+    "Isolate": "BER20ST1",
+    "ID": "OL472146.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Jul-2020"
+  },
+  "OL472147.1": {
+    "Isolate": "BER20ST2",
+    "ID": "OL472147.1",
+    "Organism": "Potato virus Y",
+    "Length": 9687,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Jul-2020"
+  },
+  "OL472148.1": {
+    "Isolate": "JUR20AT",
+    "ID": "OL472148.1",
+    "Organism": "Potato virus Y",
+    "Length": 9676,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472149.1": {
+    "Isolate": "JUR20ST1",
+    "ID": "OL472149.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472150.1": {
+    "Isolate": "JUR20ST2",
+    "ID": "OL472150.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472151.1": {
+    "Isolate": "KOR20AT",
+    "ID": "OL472151.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472152.1": {
+    "Isolate": "KOR20ST1",
+    "ID": "OL472152.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472153.1": {
+    "Isolate": "KOR20ST2",
+    "ID": "OL472153.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472154.1": {
+    "Isolate": "PLE20AT",
+    "ID": "OL472154.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472155.1": {
+    "Isolate": "PLE20ST1",
+    "ID": "OL472155.1",
+    "Organism": "Potato virus Y",
+    "Length": 9609,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472156.1": {
+    "Isolate": "PLE20ST2",
+    "ID": "OL472156.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472157.1": {
+    "Isolate": "PLE20ST3",
+    "ID": "OL472157.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472158.1": {
+    "Isolate": "SKO20AT",
+    "ID": "OL472158.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472159.1": {
+    "Isolate": "SKO20ST1",
+    "ID": "OL472159.1",
+    "Organism": "Potato virus Y",
+    "Length": 9649,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472160.1": {
+    "Isolate": "SKO20ST2",
+    "ID": "OL472160.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472161.1": {
+    "Isolate": "STR20AT",
+    "ID": "OL472161.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472162.1": {
+    "Isolate": "STR20ST1",
+    "ID": "OL472162.1",
+    "Organism": "Potato virus Y",
+    "Length": 9630,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472163.1": {
+    "Isolate": "STR20ST2",
+    "ID": "OL472163.1",
+    "Organism": "Potato virus Y",
+    "Length": 9690,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "OL472164.1": {
+    "Isolate": "TUR20ST3",
+    "ID": "OL472164.1",
+    "Organism": "Potato virus Y",
+    "Length": 9726,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Sep-2020"
+  },
+  "OL472165.1": {
+    "Isolate": "SKO20SW",
+    "ID": "OL472165.1",
+    "Organism": "Potato virus Y",
+    "Length": 9706,
+    "Host": "N/A",
+    "Geo Location": "Slovenia",
+    "Collection Date": "Aug-2020"
+  },
+  "ON125135.1": {
+    "Isolate": "PS2_221",
+    "ID": "ON125135.1",
+    "Organism": "Potato virus Y",
+    "Length": 9601,
+    "Host": "N/A",
+    "Geo Location": "USA",
+    "Collection Date": "Jul-2017"
+  },
+  "ON505007.1": {
+    "Isolate": "37-39ViT21S",
+    "ID": "ON505007.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum cultivar Borana",
+    "Geo Location": "Croatia",
+    "Collection Date": "2021-08-23"
+  },
+  "ON505008.1": {
+    "Isolate": "61.63SET21S",
+    "ID": "ON505008.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum cultivar Borana",
+    "Geo Location": "Croatia",
+    "Collection Date": "2021-09-22"
+  },
+  "ON583979.1": {
+    "Isolate": "PVY_ALYU-75",
+    "ID": "ON583979.1",
+    "Organism": "Potato virus Y",
+    "Length": 9754,
+    "Host": "Solanum tuberosum cv. Zeren",
+    "Geo Location": "Kazakhstan",
+    "Collection Date": "2019-01-01"
+  },
+  "ON583980.1": {
+    "Isolate": "PVY_ALYU-76",
+    "ID": "ON583980.1",
+    "Organism": "Potato virus Y",
+    "Length": 9755,
+    "Host": "Solanum tuberosum cv. Zeren",
+    "Geo Location": "Kazakhstan",
+    "Collection Date": "2019-01-01"
+  },
+  "ON604831.1": {
+    "Isolate": "DSMZ PV-0343",
+    "ID": "ON604831.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "ON604839.1": {
+    "Isolate": "DSMZ PV-1031",
+    "ID": "ON604839.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "ON604843.1": {
+    "Isolate": "DSMZ PV-1288",
+    "ID": "ON604843.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "ON604844.1": {
+    "Isolate": "DSMZ PV-1310",
+    "ID": "ON604844.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Capsicum annuum",
+    "Geo Location": "Rwanda",
+    "Collection Date": "N/A"
+  },
+  "PX102588.1": {
+    "Isolate": "Enshi260",
+    "ID": "PX102588.1",
+    "Organism": "Potato virus Y",
+    "Length": 9583,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "PX102589.1": {
+    "Isolate": "Enshi28",
+    "ID": "PX102589.1",
+    "Organism": "Potato virus Y",
+    "Length": 9611,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "PX102590.1": {
+    "Isolate": "Enshi38",
+    "ID": "PX102590.1",
+    "Organism": "Potato virus Y",
+    "Length": 9644,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "PX102591.1": {
+    "Isolate": "Enshi223",
+    "ID": "PX102591.1",
+    "Organism": "Potato virus Y",
+    "Length": 9666,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "PX102592.1": {
+    "Isolate": "Enshi107",
+    "ID": "PX102592.1",
+    "Organism": "Potato virus Y",
+    "Length": 9645,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "PX102593.1": {
+    "Isolate": "Enshi201",
+    "ID": "PX102593.1",
+    "Organism": "Potato virus Y",
+    "Length": 9647,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "PX102594.1": {
+    "Isolate": "Enshi143",
+    "ID": "PX102594.1",
+    "Organism": "Potato virus Y",
+    "Length": 9648,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  },
+  "S70722.1": {
+    "Isolate": "N/A",
+    "ID": "S70722.1",
+    "Organism": "Potato virus Y",
+    "Length": 1560,
+    "Host": "N/A",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "U09509.1": {
+    "Isolate": "N/A",
+    "ID": "U09509.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum L.",
+    "Geo Location": "N/A",
+    "Collection Date": "N/A"
+  },
+  "OR480010.1": {
+    "Isolate": "PVY-T21AL6.2R-RUS-2021",
+    "ID": "OR480010.1",
+    "Organism": "Potato virus Y",
+    "Length": 9728,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480011.1": {
+    "Isolate": "PVY-T21AL6.3R-RUS-2021",
+    "ID": "OR480011.1",
+    "Organism": "Potato virus Y",
+    "Length": 9728,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480012.1": {
+    "Isolate": "PVY-L21AL6.4R-RUS-2021",
+    "ID": "OR480012.1",
+    "Organism": "Potato virus Y",
+    "Length": 9728,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480013.1": {
+    "Isolate": "PVY-T21AL6.5R-RUS-2021",
+    "ID": "OR480013.1",
+    "Organism": "Potato virus Y",
+    "Length": 9728,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480014.1": {
+    "Isolate": "PVY-T21AL7.1R-RUS-2021",
+    "ID": "OR480014.1",
+    "Organism": "Potato virus Y",
+    "Length": 9732,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480015.1": {
+    "Isolate": "PVY-T21AL7.2R-RUS-2021",
+    "ID": "OR480015.1",
+    "Organism": "Potato virus Y",
+    "Length": 9732,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480016.1": {
+    "Isolate": "PVY-T21AL7.3R-RUS-2021",
+    "ID": "OR480016.1",
+    "Organism": "Potato virus Y",
+    "Length": 9732,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480017.1": {
+    "Isolate": "PVY-T21MI25R-RUS-2021",
+    "ID": "OR480017.1",
+    "Organism": "Potato virus Y",
+    "Length": 9765,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480018.1": {
+    "Isolate": "PVY-T21MI27.1R-RUS-2021",
+    "ID": "OR480018.1",
+    "Organism": "Potato virus Y",
+    "Length": 9788,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480019.1": {
+    "Isolate": "PVY-T21MI27.2R-RUS-2021",
+    "ID": "OR480019.1",
+    "Organism": "Potato virus Y",
+    "Length": 9713,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480020.1": {
+    "Isolate": "PVY-T21ML34R-RUS-2021",
+    "ID": "OR480020.1",
+    "Organism": "Potato virus Y",
+    "Length": 9788,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480021.1": {
+    "Isolate": "PVY-T21AI1.1T-RUS-2021",
+    "ID": "OR480021.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480022.1": {
+    "Isolate": "PVY-T21AI1.2T-RUS-2021",
+    "ID": "OR480022.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480023.1": {
+    "Isolate": "PVY-T21AI1.3T-RUS-2021",
+    "ID": "OR480023.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480024.1": {
+    "Isolate": "PVY-T21AI1.4T-RUS-2021",
+    "ID": "OR480024.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480025.1": {
+    "Isolate": "PVY-T21AI1.5T-RUS-2021",
+    "ID": "OR480025.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480026.1": {
+    "Isolate": "PVY-T21AI1.6T-RUS-2021",
+    "ID": "OR480026.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480027.1": {
+    "Isolate": "PVY-T21AI2.1T-RUS-2021",
+    "ID": "OR480027.1",
+    "Organism": "Potato virus Y",
+    "Length": 9693,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480028.1": {
+    "Isolate": "PVY-T21AI2.2T-RUS-2021",
+    "ID": "OR480028.1",
+    "Organism": "Potato virus Y",
+    "Length": 9689,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480029.1": {
+    "Isolate": "PVY-T21AI2.3T-RUS-2021",
+    "ID": "OR480029.1",
+    "Organism": "Potato virus Y",
+    "Length": 9693,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480030.1": {
+    "Isolate": "PVY-T21AI2.4T-RUS-2021",
+    "ID": "OR480030.1",
+    "Organism": "Potato virus Y",
+    "Length": 9689,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480031.1": {
+    "Isolate": "PVY-T21AI4.1T-RUS-2021",
+    "ID": "OR480031.1",
+    "Organism": "Potato virus Y",
+    "Length": 9715,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480032.1": {
+    "Isolate": "PVY-T21AI4.2T-RUS-2021",
+    "ID": "OR480032.1",
+    "Organism": "Potato virus Y",
+    "Length": 9715,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480033.1": {
+    "Isolate": "PVY-T21AL7.1T-RUS-2021",
+    "ID": "OR480033.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480034.1": {
+    "Isolate": "PVY-T21AL7.2T-RUS-2021",
+    "ID": "OR480034.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480035.1": {
+    "Isolate": "PVY-T21MI25.1T-RUS-2021",
+    "ID": "OR480035.1",
+    "Organism": "Potato virus Y",
+    "Length": 9741,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480036.1": {
+    "Isolate": "PVY-T21MI25.2T-RUS-2021",
+    "ID": "OR480036.1",
+    "Organism": "Potato virus Y",
+    "Length": 9741,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480037.1": {
+    "Isolate": "PVY-T21MI26.1T-RUS-2021",
+    "ID": "OR480037.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480038.1": {
+    "Isolate": "PVY-T21MI26.2T-RUS-2021",
+    "ID": "OR480038.1",
+    "Organism": "Potato virus Y",
+    "Length": 9701,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480039.1": {
+    "Isolate": "PVY-T21MI27.1T-RUS-2021",
+    "ID": "OR480039.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480040.1": {
+    "Isolate": "PVY-T21MI27.2T-RUS-2021",
+    "ID": "OR480040.1",
+    "Organism": "Potato virus Y",
+    "Length": 9735,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480041.1": {
+    "Isolate": "PVY-T21MI28.1T-RUS-2021",
+    "ID": "OR480041.1",
+    "Organism": "Potato virus Y",
+    "Length": 9707,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480042.1": {
+    "Isolate": "PVY-T21MI28.2T-RUS-2021",
+    "ID": "OR480042.1",
+    "Organism": "Potato virus Y",
+    "Length": 9720,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480043.1": {
+    "Isolate": "PVY-T21ML33T-RUS-2021",
+    "ID": "OR480043.1",
+    "Organism": "Potato virus Y",
+    "Length": 9747,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480044.1": {
+    "Isolate": "PVY-T21ML35T-RUS-2021",
+    "ID": "OR480044.1",
+    "Organism": "Potato virus Y",
+    "Length": 9729,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480045.1": {
+    "Isolate": "PVY-L22ML7.1T-RUS-2022",
+    "ID": "OR480045.1",
+    "Organism": "Potato virus Y",
+    "Length": 9668,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480046.1": {
+    "Isolate": "PVY-L22ML7.2T-RUS-2022",
+    "ID": "OR480046.1",
+    "Organism": "Potato virus Y",
+    "Length": 9668,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480047.1": {
+    "Isolate": "PVY-L22AI1.1T-RUS-2022",
+    "ID": "OR480047.1",
+    "Organism": "Potato virus Y",
+    "Length": 9737,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480048.1": {
+    "Isolate": "PVY-L22AI1.2T-RUS-2022",
+    "ID": "OR480048.1",
+    "Organism": "Potato virus Y",
+    "Length": 9737,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480049.1": {
+    "Isolate": "PVY-L22AI1.3T-RUS-2022",
+    "ID": "OR480049.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480050.1": {
+    "Isolate": "PVY-L22AI1.4T-RUS-2022",
+    "ID": "OR480050.1",
+    "Organism": "Potato virus Y",
+    "Length": 9737,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480051.1": {
+    "Isolate": "PVY-L22AI1.5T-RUS-2022",
+    "ID": "OR480051.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480052.1": {
+    "Isolate": "PVY-L22AI1.5R-RUS-2022",
+    "ID": "OR480052.1",
+    "Organism": "Potato virus Y",
+    "Length": 9746,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480053.1": {
+    "Isolate": "PVY-L22MI6.1R-RUS-2022",
+    "ID": "OR480053.1",
+    "Organism": "Potato virus Y",
+    "Length": 9707,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480054.1": {
+    "Isolate": "PVY-L22MI6.2R-RUS-2022",
+    "ID": "OR480054.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480055.1": {
+    "Isolate": "PVY-L22MI6.3R-RUS-2022",
+    "ID": "OR480055.1",
+    "Organism": "Potato virus Y",
+    "Length": 9709,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480056.1": {
+    "Isolate": "PVY-T22ML66.1R-RUS-2022",
+    "ID": "OR480056.1",
+    "Organism": "Potato virus Y",
+    "Length": 9692,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480057.1": {
+    "Isolate": "PVY-T22ML66.1V-RUS-2022",
+    "ID": "OR480057.1",
+    "Organism": "Potato virus Y",
+    "Length": 9692,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480058.1": {
+    "Isolate": "PVY-T22AI63.1T-RUS-2022",
+    "ID": "OR480058.1",
+    "Organism": "Potato virus Y",
+    "Length": 9727,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480059.1": {
+    "Isolate": "PVY-T22AI63.2T-RUS-2022",
+    "ID": "OR480059.1",
+    "Organism": "Potato virus Y",
+    "Length": 9727,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480060.1": {
+    "Isolate": "PVY-T22AL64.1T-RUS-2022",
+    "ID": "OR480060.1",
+    "Organism": "Potato virus Y",
+    "Length": 9717,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480061.1": {
+    "Isolate": "PVY-T22AL64.2T-RUS-2022",
+    "ID": "OR480061.1",
+    "Organism": "Potato virus Y",
+    "Length": 9714,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480062.1": {
+    "Isolate": "PVY-T22MI65.1T-RUS-2022",
+    "ID": "OR480062.1",
+    "Organism": "Potato virus Y",
+    "Length": 9721,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480063.1": {
+    "Isolate": "PVY-T22MI65.3T-RUS-2022",
+    "ID": "OR480063.1",
+    "Organism": "Potato virus Y",
+    "Length": 9715,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480064.1": {
+    "Isolate": "PVY-T22ML66.1T-RUS-2022",
+    "ID": "OR480064.1",
+    "Organism": "Potato virus Y",
+    "Length": 9692,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480065.1": {
+    "Isolate": "PVY-L22AL2.1T-RUS-2022",
+    "ID": "OR480065.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480066.1": {
+    "Isolate": "PVY-L22AL2.2T-RUS-2022",
+    "ID": "OR480066.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480067.1": {
+    "Isolate": "PVY-L22AL2.3T-RUS-2022",
+    "ID": "OR480067.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480068.1": {
+    "Isolate": "PVY-L22AL2.4T-RUS-2022",
+    "ID": "OR480068.1",
+    "Organism": "Potato virus Y",
+    "Length": 9712,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR480069.1": {
+    "Isolate": "PVY-T21AL8.1T-RUS-2021",
+    "ID": "OR480069.1",
+    "Organism": "Potato virus Y",
+    "Length": 9690,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480070.1": {
+    "Isolate": "PVY-T21ML36.1T-RUS-2021",
+    "ID": "OR480070.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR480071.1": {
+    "Isolate": "PVY-T21ML36.2T-RUS-2021",
+    "ID": "OR480071.1",
+    "Organism": "Potato virus Y",
+    "Length": 9671,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2021-01-01"
+  },
+  "OR497354.1": {
+    "Isolate": "TOMNEC",
+    "ID": "OR497354.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum lycopersicum cv. Guara",
+    "Geo Location": "Brazil",
+    "Collection Date": "May-2019"
+  },
+  "OR497355.1": {
+    "Isolate": "RNY1",
+    "ID": "OR497355.1",
+    "Organism": "Potato virus Y",
+    "Length": 9687,
+    "Host": "Solanum lycopersicum cv. Gaucho",
+    "Geo Location": "Brazil",
+    "Collection Date": "2014-01-01"
+  },
+  "OR497356.1": {
+    "Isolate": "RNY2",
+    "ID": "OR497356.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "Solanum lycopersicum cv. Dominador",
+    "Geo Location": "Brazil",
+    "Collection Date": "2014-01-01"
+  },
+  "OR540829.1": {
+    "Isolate": "N/A",
+    "ID": "OR540829.1",
+    "Organism": "Potato virus Y",
+    "Length": 9697,
+    "Host": "potato",
+    "Geo Location": "United Kingdom",
+    "Collection Date": "2022-05-25"
+  },
+  "OR545670.1": {
+    "Isolate": "PVY_CM_DI",
+    "ID": "OR545670.1",
+    "Organism": "Potato virus Y",
+    "Length": 9750,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Russia",
+    "Collection Date": "2022-01-01"
+  },
+  "OR607761.1": {
+    "Isolate": "DSMZ PV-0783",
+    "ID": "OR607761.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Spain",
+    "Collection Date": "N/A"
+  },
+  "OR607771.1": {
+    "Isolate": "DSMZ PV-1057",
+    "ID": "OR607771.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "Iran",
+    "Collection Date": "N/A"
+  },
+  "OR607781.1": {
+    "Isolate": "DSMZ PV-1415",
+    "ID": "OR607781.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "OR687173.1": {
+    "Isolate": "RN-5_PVYO_SLV2021",
+    "ID": "OR687173.1",
+    "Organism": "Potato virus Y",
+    "Length": 9569,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2022-03-01"
+  },
+  "OR687174.1": {
+    "Isolate": "RN1_N-Wi_SLV2021",
+    "ID": "OR687174.1",
+    "Organism": "Potato virus Y",
+    "Length": 9589,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2022-03-01"
+  },
+  "OR687175.1": {
+    "Isolate": "RN-20_NTN_SLV2021",
+    "ID": "OR687175.1",
+    "Organism": "Potato virus Y",
+    "Length": 9606,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "USA",
+    "Collection Date": "2022-03-01"
+  },
+  "OR879092.1": {
+    "Isolate": "DSMZ PV-0893",
+    "ID": "OR879092.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Germany",
+    "Collection Date": "N/A"
+  },
+  "PP028117.1": {
+    "Isolate": "DSMZ PV-0930",
+    "ID": "PP028117.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Viet Nam",
+    "Collection Date": "N/A"
+  },
+  "PP069009.1": {
+    "Isolate": "PVY_Kenya",
+    "ID": "PP069009.1",
+    "Organism": "Potato virus Y",
+    "Length": 9668,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Kenya",
+    "Collection Date": "Jun-2022"
+  },
+  "PP255821.1": {
+    "Isolate": "N-Wi_2022-13-10",
+    "ID": "PP255821.1",
+    "Organism": "Potato virus Y",
+    "Length": 9696,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255822.1": {
+    "Isolate": "N-Wi_2022-4-14",
+    "ID": "PP255822.1",
+    "Organism": "Potato virus Y",
+    "Length": 9694,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255823.1": {
+    "Isolate": "N-Wi_2021-B136",
+    "ID": "PP255823.1",
+    "Organism": "Potato virus Y",
+    "Length": 9678,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255824.1": {
+    "Isolate": "N-Wi_2021-B109",
+    "ID": "PP255824.1",
+    "Organism": "Potato virus Y",
+    "Length": 9798,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255825.1": {
+    "Isolate": "N-Wi_2021-E61",
+    "ID": "PP255825.1",
+    "Organism": "Potato virus Y",
+    "Length": 9683,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255827.1": {
+    "Isolate": "N-Wi_2022-4-16",
+    "ID": "PP255827.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255828.1": {
+    "Isolate": "N-Wi_2021-9-12",
+    "ID": "PP255828.1",
+    "Organism": "Potato virus Y",
+    "Length": 9708,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2021"
+  },
+  "PP255829.1": {
+    "Isolate": "N-Wi_2021-3-8",
+    "ID": "PP255829.1",
+    "Organism": "Potato virus Y",
+    "Length": 9602,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2021"
+  },
+  "PP255830.1": {
+    "Isolate": "N-Wi_2021-A149",
+    "ID": "PP255830.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255832.1": {
+    "Isolate": "N-Wi_2022-12-4",
+    "ID": "PP255832.1",
+    "Organism": "Potato virus Y",
+    "Length": 9703,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255834.1": {
+    "Isolate": "O_2021-5-17",
+    "ID": "PP255834.1",
+    "Organism": "Potato virus Y",
+    "Length": 9669,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2021"
+  },
+  "PP255835.1": {
+    "Isolate": "NTNa_2021-4-18",
+    "ID": "PP255835.1",
+    "Organism": "Potato virus Y",
+    "Length": 9656,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2021"
+  },
+  "PP255836.1": {
+    "Isolate": "NTNa_2021-F26",
+    "ID": "PP255836.1",
+    "Organism": "Potato virus Y",
+    "Length": 9688,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP255837.1": {
+    "Isolate": "NTNa_2022-15-18",
+    "ID": "PP255837.1",
+    "Organism": "Potato virus Y",
+    "Length": 9692,
+    "Host": "potato",
+    "Geo Location": "USA",
+    "Collection Date": "Aug-2022"
+  },
+  "PP256240.1": {
+    "Isolate": "DSMZ PV-0326",
+    "ID": "PP256240.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "Solanum lycopersicum",
+    "Geo Location": "Australia",
+    "Collection Date": "N/A"
+  },
+  "PP256241.1": {
+    "Isolate": "DSMZ PV-0344",
+    "ID": "PP256241.1",
+    "Organism": "Potato virus Y",
+    "Length": 9699,
+    "Host": "pepper",
+    "Geo Location": "Spain",
+    "Collection Date": "N/A"
+  },
+  "PP256242.1": {
+    "Isolate": "DSMZ PV-0345",
+    "ID": "PP256242.1",
+    "Organism": "Potato virus Y",
+    "Length": 9698,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Spain",
+    "Collection Date": "N/A"
+  },
+  "PP400338.1": {
+    "Isolate": "DSMZ PV-1386",
+    "ID": "PP400338.1",
+    "Organism": "Potato virus Y",
+    "Length": 9702,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Denmark",
+    "Collection Date": "N/A"
+  },
+  "PP835449.1": {
+    "Isolate": "Ta21",
+    "ID": "PP835449.1",
+    "Organism": "Potato virus Y",
+    "Length": 9782,
+    "Host": "Nicotiana tabacum",
+    "Geo Location": "Italy",
+    "Collection Date": "2002-08-02"
+  },
+  "PQ072289.1": {
+    "Isolate": "DSMZ PV-0348",
+    "ID": "PQ072289.1",
+    "Organism": "Potato virus Y",
+    "Length": 9700,
+    "Host": "Solanum tuberosum",
+    "Geo Location": "Switzerland",
+    "Collection Date": "N/A"
+  },
+  "PQ439122.1": {
+    "Isolate": "CQJLP",
+    "ID": "PQ439122.1",
+    "Organism": "Potato virus Y",
+    "Length": 9643,
+    "Host": "Nicandra physalodes (Linn.) Gaertn",
+    "Geo Location": "China",
+    "Collection Date": "Aug-2023"
+  },
+  "PV165520.1": {
+    "Isolate": "PVY-001",
+    "ID": "PV165520.1",
+    "Organism": "Potato virus Y",
+    "Length": 9672,
+    "Host": "Capsicum annuum",
+    "Geo Location": "Turkey",
+    "Collection Date": "2024-06-26"
+  },
+  "PX092318.1": {
+    "Isolate": "PVY-YN",
+    "ID": "PX092318.1",
+    "Organism": "Potato virus Y",
+    "Length": 9724,
+    "Host": "Physalis philadelphica",
+    "Geo Location": "China",
+    "Collection Date": "2023-08-18"
+  },
+  "PX102587.1": {
+    "Isolate": "Enshi258",
+    "ID": "PX102587.1",
+    "Organism": "Potato virus Y",
+    "Length": 9650,
+    "Host": "potato",
+    "Geo Location": "China",
+    "Collection Date": "2020-01-01"
+  }
+}
