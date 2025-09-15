@@ -17,15 +17,15 @@ Prior to using VirPhyKit, users must specify the installation paths for R, Pytho
 3. **Installation**
 
 - For Windows, Windows 7, 8, and 10 are all supported. Just download VirPhyKit.zip, unzip it, and then double-click it to run it.
-- For Linux, unzip VirPhyKit.zip/VirPhyKit.tar.gz to any path you specify, then double-click VirPhyKit.sh to open it. Or use the command:
+- For Linux, unzip VirPhyKit.zip/VirPhyKit.tar.gz to any path you specify, then double-click VirPhyKit to open it. Or use the command:
 
-cd path/to/VirPhyKit
+  cd path/to/VirPhyKit
 
-./VirPhyKit.sh
+  ./VirPhyKit.sh
 
 - If you encounter any permission-related errors, please try using the following command:
 
-sudo chmod +x VirPhyKit.sh
+  sudo chmod +x VirPhyKit.sh
 
 This will grant the VirPhyKit script execution permissions.
 
