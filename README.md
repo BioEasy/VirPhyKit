@@ -48,8 +48,10 @@ The Quick Guide (Quick_Guide.pdf) provides an overview of the 12 modules in VirP
 |            | RRT             | Region-Randomization Test |
 |            | TempMig         | Temporal Migration Tracker |
 |            | GeoSubsampler   | Sequence Geographic Subsampler |
-| Plot       | BSP-Viz<br>RSPP-Viz | Bayesian Skyline Plot Visualizer<br>Root State Posterior Probability Visualizer |
-| Dating     | TreeTime-RTT<br>TreeDater-LTT | Root-to-tip Regression by TreeTime<br>Lineage-Through-Time with Treedater |
+| Plot       | BSP-Viz | Bayesian Skyline Plot Visualizer |
+|            | RSPP-Viz        | Root State Posterior Probability Visualizer |
+| Dating     | TreeTime-RTT | Root-to-tip Regression by TreeTime |
+|            | TreeDater-LTT   | Lineage-Through-Time with Treedater |
 | Options    |                 |          |
 |            | Environment     | Check the dependency environment |
 | Misc       | MJRM Generator  | Markov Jumps and Rewards Matrix Generator |
