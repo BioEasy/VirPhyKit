@@ -1,0 +1,16 @@
+PL086098	Seq01_trait01_date01
+GQ427066	Seq02_trait02_date02
+GQ427065	Seq03_trait03_date03
+GQ427064	Seq04_trait04_date04
+GQ427063	Seq05_trait05_date05
+GQ427062	Seq06_trait06_date06
+GQ427061	Seq07_trait07_date07
+GQ427060	Seq08_trait08_date08
+GQ427059	Seq09_trait09_date09
+GQ427058	Seq10_trait10_date10
+GQ427057	Seq11_trait11_date11
+GQ427056	Seq12_trait12_date12
+GQ427055	Seq13_trait13_date13
+GQ427054	Seq14_trait14_date14
+GQ427053	Seq15_trait15_date15
+GQ427052	Seq16_trait16_date16
