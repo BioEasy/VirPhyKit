@@ -16,7 +16,7 @@ Prior to using VirPhyKit, users must specify the installation paths for R, Pytho
 
 3. **Installation**
 
-- For Windows, Windows 7, 8, and 10 are all supported. Just download VirPhyKit.zip, unzip it, and then double-click it to run it.
+- For Windows, Windows 7, 8, 10 and 11 are all supported. Just download VirPhyKit.zip, unzip it, and then double-click it to run it.
 - For Linux, unzip VirPhyKit.zip/VirPhyKit.tar.gz to any path you specify, then double-click VirPhyKit to open it. Or use the command:
 
   cd path/to/VirPhyKit
@@ -62,7 +62,7 @@ The Quick Guide (Quick_Guide.pdf) provides an overview of the 12 modules in VirP
 
 6. **Citation**
 
-Yin Y., Shen J., Du Z., Ho S.Y.W., Gao F., 2025. VirPhyKit: an integrated toolkit for viral phylogeographic analysis.
+Yin Y., Shen J., Du Z, Ho S.Y.W., Gao F., VirPhyKit: An integrated toolkit for viral phylogeographic analysis. Ecol Evol. 15, e72796. 
 
 7. **Contribution**
 
