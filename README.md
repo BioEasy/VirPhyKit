@@ -62,7 +62,7 @@ The Quick Guide (Quick_Guide.pdf) provides an overview of the 12 modules in VirP
 
 6. **Citation**
 
-Yin Y., Shen J., Du Z, Ho S.Y.W., Gao F., VirPhyKit: An integrated toolkit for viral phylogeographic analysis. Ecol Evol. 15, e72796. 
+Yin Y., Shen J., Du Z, Ho S.Y.W., Gao F., VirPhyKit: An integrated toolkit for viral phylogeographic analysis. Ecol Evol. 2025, 15, e72796.
 
 7. **Contribution**
 
