@@ -33,7 +33,7 @@ This will grant the VirPhyKit script execution permissions.
 
 4. **Quick Guide and Tutorial**
 
-The Quick Guide (Quick_Guide.pdf) provides an overview of the 12 modules in VirPhyKit. For in-depth guidance, a comprehensive Tutorial (Tutorial.pdf) offers step-by-step instructions for the toolkit’s features.
+The Quick Guide (Quick_Guide.pdf) provides an overview of the 12 modules in VirPhyKit. For in-depth guidance, a comprehensive [User-Manual] (https://github.com/BioEasy/VirPhyKit/blob/main/Manual.pdf) offers step-by-step instructions for the toolkit’s features.
 
 5. **Tools menu in VirPhyKit**
 
